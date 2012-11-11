@@ -115,5 +115,59 @@ textarea {
 }
 
 /* ---------------------------------------------------------------------
+ Grid Styles
+------------------------------------------------------------------------ */
+.grid-row {
+    overflow: hidden;
+    padding-bottom: 20px;
+}
+
+.grid-col {
+    float: left;
+}
+
+.grid-col + .grid-col {
+    margin-left: 24px;
+}
+
+.grid-col-1  { width: 5.888%; }
+.grid-col-2  { width: 14.444%; }
+.grid-col-3  { width: 23%; }
+.grid-col-4  { width: 31.555%; }
+.grid-col-5  { width: 10.111%; }
+.grid-col-6  { width: 48.666%; }
+.grid-col-7  { width: 57.222%; }
+.grid-col-8  { width: 65.777%; }
+.grid-col-9  { width: 74.333%; }
+.grid-col-10 { width: 82.888%; }
+.grid-col-11 { width: 91.444%; }
+.grid-col-11 { width: 100%; }
+
+/* ---------------------------------------------------------------------
  Base Styles
 ------------------------------------------------------------------------ */
+body {
+    background: url(../images/bg-body.jpg) no-repeat fixed 50% top #333333;
+    font: 12px/1.2 Helvetica, Arial, sans-serif;
+    color: #4e4e4e;
+}
+
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.wrapper-inner {
+    padding: 0 30px;
+}
+
+.content {
+    background: #ffffff;
+}
+
+/* ---------------------------------------------------------------------
+ Footer Styles
+------------------------------------------------------------------------ */
+.footer {
+    background: #2f2f2f;
+}
