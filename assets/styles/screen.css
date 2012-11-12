@@ -126,15 +126,14 @@ textarea {
     float: left;
 }
 
-.grid-col + .grid-col {
-    margin-left: 24px;
-}
+.grid-col + .grid-col { margin-left: 2.6%; }
 
+/* Columns */
 .grid-col-1  { width: 5.888%; }
 .grid-col-2  { width: 14.444%; }
 .grid-col-3  { width: 23%; }
 .grid-col-4  { width: 31.555%; }
-.grid-col-5  { width: 10.111%; }
+.grid-col-5  { width: 40.111%; }
 .grid-col-6  { width: 48.666%; }
 .grid-col-7  { width: 57.222%; }
 .grid-col-8  { width: 65.777%; }
@@ -142,6 +141,19 @@ textarea {
 .grid-col-10 { width: 82.888%; }
 .grid-col-11 { width: 91.444%; }
 .grid-col-11 { width: 100%; }
+
+/* Offset */
+.grid-offset-1  { margin-left: 5.888%; }
+.grid-offset-2  { margin-left: 14.444%; }
+.grid-offset-3  { margin-left: 23%; }
+.grid-offset-4  { margin-left: 31.555%; }
+.grid-offset-5  { margin-left: 40.111%; }
+.grid-offset-6  { margin-left: 48.666%; }
+.grid-offset-7  { margin-left: 57.222%; }
+.grid-offset-8  { margin-left: 65.777%; }
+.grid-offset-9  { margin-left: 74.333%; }
+.grid-offset-10 { margin-left: 82.888%; }
+
 
 /* ---------------------------------------------------------------------
  Base Styles
@@ -152,17 +164,208 @@ body {
     color: #4e4e4e;
 }
 
+input[type='submit'], input[type='image'], label[for], select, button {
+    cursor: pointer;
+}
+
+a {
+    color: #4e4e4e;
+    text-decoration: none;
+    -moz-transition:
+        color 0.15s ease-in-out,
+        opacity 0.15s ease-in-out 0s;
+    -webkit-transition:
+        color 0.15s ease-in-out,
+        opacity 0.15s ease-in-out 0s;
+    -ms-transition:
+        color 0.15s ease-in-out,
+        opacity 0.15s ease-in-out 0s;
+    -o-transition:
+        color 0.15s ease-in-out,
+        opacity 0.15s ease-in-out 0s;
+    transition:
+        color 0.15s ease-in-out,
+        opacity 0.15s ease-in-out 0s;
+}
+
+a:hover,
+a:focus { text-decoration: underline; }
+
+.section { overflow: hidden; }
+
 .wrapper {
     width: 960px;
     margin: 0 auto;
 }
 
 .wrapper-inner {
-    padding: 0 30px;
+    padding: 15px 30px 0;
+    overflow: hidden;
 }
 
 .content {
     background: #ffffff;
+}
+
+/* ---------------------------------------------------------------------
+ List Styles
+------------------------------------------------------------------------ */
+.h-list { overflow: hidden; }
+
+.h-list > li { float: left; }
+
+.h-list-piped > li + li {
+    margin-left: 8px;
+    border-left: 1px solid #ffffff;
+    padding-left: 8px;
+}
+
+/* ---------------------------------------------------------------------
+ Media Element Styles
+------------------------------------------------------------------------ */
+.media { overflow: hidden; }
+
+.media-img {
+    float: left;
+    margin: 0 15px 0 0;
+    overflow: hidden;
+}
+
+.media-img > img {
+    display: block;
+    max-width: 100%;
+    width: auto;
+}
+
+.media-flip > .media-img {
+    float: right;
+    margin: 0 0 0 15px;
+}
+
+/* ---------------------------------------------------------------------
+ Font/Heading Styles
+------------------------------------------------------------------------ */
+.serif { font-family: Georgia, Times, "Times New Roman", serif; }
+.san-serif-alt { font-family: Verdana, Geneva, sans-serif; }
+
+/* Headings */
+.hdg {
+    color: #2e2e2e;
+    font-weight: bold;
+}
+
+.hdg-2-feat { font-size: 60px; }
+.hdg-2 { font-size: 14px; }
+
+.hdg-3-feat { font-size: 22px; }
+.hdg-3 { font-size: 16px; }
+.hdg-3-alt { font-size: 14px; }
+.hdg-3-alt2 { font-size: 12px; }
+
+.hdg-4 {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.hdg-caps { text-transform: uppercase; }
+
+.txt-rev,
+.txt-rev a { color: #ffffff; }
+.txt-ital { font-style: italic; }
+
+/* ---------------------------------------------------------------------
+ Header Styles
+------------------------------------------------------------------------ */
+.header .wrapper-inner { padding-right: 0; }
+
+.brand {
+    float: left;
+    margin-top: 5px;
+}
+
+/* Toolbox */
+.toolbox { float: right; }
+
+.toolbox .h-list {
+    margin: 7px 10px 0 0;
+    float: left;
+}
+
+.form-search-site {
+    overflow: hidden;
+    float: right;
+    margin-bottom: 14px;
+}
+
+.form-search-site input[type=text] {
+    border: 1px solid #5f5f5f;
+    padding: 4px 10px 5px;
+    width: 135px;
+    color: #858782;
+    font-size: 13px;
+    font-weight: bold;
+    float: left;
+}
+
+.form-search-site button {
+    border: 1px solid #5f5f5f;
+    border-left-width: 1px;
+    border-left-color: #732426;
+    border-left-color: #732426;
+    text-indent: -9999px;
+    background: url(../images/icon-search.png) no-repeat center center #dd4548;
+    width: 28px;
+    height: 27px;
+    margin-left: -4px;
+    display: block;
+    float: left;
+}
+
+.toolbox .media {
+    clear: both;
+    margin-left: 50px;
+}
+
+.toolbox .media-bd { text-align: right; }
+
+/* Nav Main */
+.nav-main {
+    clear: both;
+    overflow: hidden;
+    background: rgba(27,43,26,.75);
+    line-height: 34px;
+    padding: 0 30px;
+}
+
+.nav-main li {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.nav-main li + li { margin-left: 25px; }
+
+.nav-main > li > a {
+    padding-right: 13px;
+}
+
+.nav-home { text-indent: -9999px; }
+.nav-home a { background: url(../images/icon-home.png) no-repeat; }
+
+.icon {
+    display: inline-block;
+}
+
+.icon-arrow {
+    background: url(../images/arrow-nav-item.png) no-repeat right 10px;
+    width: 8px;
+    height: 16px;
+    vertical-align: top;
+    margin-left: 5px;
+}
+
+.h-list .nav-main-alt {
+    float: right;
 }
 
 /* ---------------------------------------------------------------------

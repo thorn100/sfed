@@ -7,8 +7,19 @@
     <div class="wrapper">
         <?php include("includes/header.php"); ?>
 
-        <div class="content">
+        <div class="content section">
             <div class="wrapper-inner">
+                <div class="grid-row">
+                    Headings
+                    <h2 class="hdg hdg-2-feat">Heading 2 Featured (60px/bold)</h2>
+                    <h3 class="hdg hdg-3-feat">Heading 3 Featured (22px/bold)</h3>
+
+                    <h2 class="hdg hdg-2 hdg-caps">Heading 2 (14px/bold/caps)</h2>
+                    <h3 class="hdg hdg-3">Heading 3 (16px/bold)</h3>
+                    <h3 class="hdg hdg-3-alt">Heading 3 Alternate (14px/bold)</h3>
+                    <h3 class="hdg hdg-3-alt2 hdg-caps">Heading 3 Alternate2 (12px/bold/caps)</h3>
+                </div>
+
                 <div class="grid-row">
                     <div class="grid-col grid-col-12">12 of 12</div>
                 </div>
