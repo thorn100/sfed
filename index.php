@@ -7,8 +7,8 @@
     <div class="wrapper">
         <?php include("includes/header.php"); ?>
 
-        <div class="content section" role="main">
-            <div class="wrapper-inner">
+        <div class="content section clearfix" role="main">
+            <div class="wrapper-inner clearfix">
                 <div class="grid-row">
                     Headings
                     <h2 class="hdg hdg-2-feat">Heading 2 Featured (60px/bold)</h2>
@@ -18,6 +18,10 @@
                     <h3 class="hdg hdg-3">Heading 3 (16px/bold)</h3>
                     <h3 class="hdg hdg-3-alt">Heading 3 Alternate (14px/bold)</h3>
                     <h3 class="hdg hdg-3-alt2 hdg-caps">Heading 3 Alternate2 (12px/bold/caps)</h3>
+                </div>
+
+                <div class="ribbon">
+                    <p style="height: 50px;">fjdsalkfjkdsajfkasdj</p>
                 </div>
 
                 <div class="grid-row">

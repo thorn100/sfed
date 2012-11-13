@@ -154,6 +154,22 @@ textarea {
 .grid-offset-9  { margin-left: 74.333%; }
 .grid-offset-10 { margin-left: 82.888%; }
 
+/* ---------------------------------------------------------------------
+ Utility Styles
+------------------------------------------------------------------------ */
+.clearfix:after {
+    display: block;
+    height: 0;
+    line-height: 0;
+    clear: both;
+    visibility: hidden;
+    content: '.';
+}
+
+.is-hidden {
+    position: absolute;
+    left: -9999px;
+}
 
 /* ---------------------------------------------------------------------
  Base Styles
@@ -191,7 +207,7 @@ a {
 a:hover,
 a:focus { text-decoration: underline; }
 
-.section { overflow: hidden; }
+/*.section { overflow: hidden; }*/
 
 .wrapper {
     width: 960px;
@@ -200,11 +216,7 @@ a:focus { text-decoration: underline; }
 
 .wrapper-inner {
     padding: 15px 30px 0;
-    overflow: hidden;
-}
-
-.content {
-    background: #ffffff;
+    /*overflow: hidden;*/
 }
 
 .icon {
@@ -352,6 +364,8 @@ a:focus { text-decoration: underline; }
     background: rgba(27,43,26,.75);
     line-height: 34px;
     padding: 0 30px;
+    border-left: 2px solid rgba(27,43,26,.75);
+    border-right: 2px solid rgba(27,43,26,.75);
 }
 
 .h-list .nav-main-alt {
@@ -416,6 +430,45 @@ a:focus { text-decoration: underline; }
     width: 16px;
     margin-top: 11px;
     background-position: -45px 0;
+}
+
+/* ---------------------------------------------------------------------
+ Content Styles
+------------------------------------------------------------------------ */
+.content {
+    background: url(../images/bg-content.png) repeat-y #ffffff;
+    border-top: 2px solid #ffffff;
+}
+
+.ribbon {
+    background: #4b4a48;
+    margin: 0 -45px;
+    padding: 0 45px;
+    border-left: 2px solid rgba(255,255,255,.1);
+    border-right: 2px solid rgba(255,255,255,.1);
+    position: relative;
+}
+
+.ribbon:before {
+    position: absolute;
+    content: "";
+    left: -2px;
+    top: -8px;
+    width: 0;
+    height: 0;
+    border-bottom: 8px solid #000000;
+    border-left: 15px solid transparent;
+}
+
+.ribbon:after {
+    position: absolute;
+    content: "";
+    right: -2px;
+    top: -8px;
+    width: 0;
+    height: 0;
+    border-bottom: 8px solid #000000;
+    border-right: 15px solid transparent;
 }
 
 /* ---------------------------------------------------------------------
