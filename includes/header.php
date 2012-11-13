@@ -1,4 +1,4 @@
-<div class="header section txt-rev">
+<div class="header section txt-rev" role="banner">
 	<div class="wrapper-inner">
     	<h1 class="brand"><a href="#"><img src="assets/images/logo-relish.png" alt="Relish Logo" /></a></h1>
     	<div class="toolbox">

@@ -7,7 +7,7 @@
     <div class="wrapper">
         <?php include("includes/header.php"); ?>
 
-        <div class="content section">
+        <div class="content section" role="main">
             <div class="wrapper-inner">
                 <div class="grid-row">
                     Headings
