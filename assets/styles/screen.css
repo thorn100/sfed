@@ -207,6 +207,10 @@ a:focus { text-decoration: underline; }
     background: #ffffff;
 }
 
+.icon {
+    display: block;
+}
+
 /* ---------------------------------------------------------------------
  List Styles
 ------------------------------------------------------------------------ */
@@ -337,6 +341,10 @@ a:focus { text-decoration: underline; }
     padding: 0 30px;
 }
 
+.h-list .nav-main-alt {
+    float: right;
+}
+
 .nav-main li {
     text-transform: uppercase;
     font-weight: bold;
@@ -345,26 +353,18 @@ a:focus { text-decoration: underline; }
 
 .nav-main li + li { margin-left: 25px; }
 
-.nav-main > li > a {
-    padding-right: 13px;
-}
-
 .nav-home { text-indent: -9999px; }
 .nav-home a { background: url(../images/icon-home.png) no-repeat; }
 
-.icon {
-    display: inline-block;
-}
-
+/* Main Navigation Icons */
 .icon-arrow {
-    background: url(../images/arrow-nav-item.png) no-repeat right 10px;
+    background: url(../images/arrow-nav-item.png) no-repeat right 0;
     width: 8px;
     height: 16px;
     vertical-align: top;
-    margin-left: 5px;
-}
-
-.h-list .nav-main-alt {
+    margin-top: 9px;
+    padding-left: 5px;
+    padding-bottom: 9px;
     float: right;
 }
 
