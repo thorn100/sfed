@@ -4,9 +4,9 @@
     <?php include("includes/head.php"); ?>
 
 <body>
+    <?php include("includes/header.php"); ?>
+    
     <div class="wrapper">
-        <?php include("includes/header.php"); ?>
-
         <div class="content section clearfix" role="main">
             <div class="wrapper-inner clearfix">
                 <div class="ribbon txt-rev">
@@ -46,8 +46,9 @@
                 </div>
             </div>
         </div><!--/.content-->
-
-        <?php include("includes/footer.php"); ?>
+        <div class="push"></div>
     </div><!--/.wrapper-->
+
+    <?php include("includes/footer.php"); ?>
 </body>
 </html>
