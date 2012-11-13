@@ -61,9 +61,24 @@
     	</li>
     	<li class="nav-main-alt">
     		<ul class="h-list">
-		    	<li><a href="#">Video</a></li>
-		    	<li><a href="#">Social</a></li>
-		    	<li><a href="#">Store</a></li>
+		    	<li>
+		    		<a href="#">
+		    			<i class="icon icon-video"></i>
+		    			Video
+			    	</a>
+		    	</li>
+		    	<li>
+		    		<a href="#">
+		    			<i class="icon icon-social"></i>
+			    		Social
+				    </a>
+			    </li>
+		    	<li>
+		    		<a href="#">
+		    			<i class="icon icon-store"></i>
+			    		Store
+				    </a>
+				</li>
     		</ul>
     	</li>
     </ul>
