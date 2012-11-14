@@ -118,7 +118,7 @@ textarea {
  Grid Styles
 ------------------------------------------------------------------------ */
 .grid-row {
-    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 .grid-col {
@@ -126,6 +126,8 @@ textarea {
 }
 
 .grid-col + .grid-col { margin-left: 2.6%; }
+
+.grid-col-last { float: right; }
 
 /* Columns */
 .grid-col-1  { width: 5.888%; }
@@ -139,19 +141,19 @@ textarea {
 .grid-col-9  { width: 74.333%; }
 .grid-col-10 { width: 82.888%; }
 .grid-col-11 { width: 91.444%; }
-.grid-col-11 { width: 100%; }
+.grid-col-12 { width: 100%; }
 
-/* Offset */
-.grid-offset-1  { margin-left: 5.888%; }
-.grid-offset-2  { margin-left: 14.444%; }
-.grid-offset-3  { margin-left: 23%; }
-.grid-offset-4  { margin-left: 31.555%; }
-.grid-offset-5  { margin-left: 40.111%; }
-.grid-offset-6  { margin-left: 48.666%; }
-.grid-offset-7  { margin-left: 57.222%; }
-.grid-offset-8  { margin-left: 65.777%; }
-.grid-offset-9  { margin-left: 74.333%; }
-.grid-offset-10 { margin-left: 82.888%; }
+/* Push */
+.grid-push-1  { left: 5.888%; }
+.grid-push-2  { left: 14.444%; }
+.grid-push-3  { left: 23%; }
+.grid-push-4  { left: 31.555%; }
+.grid-push-5  { left: 40.111%; }
+.grid-push-6  { left: 48.666%; }
+.grid-push-7  { left: 57.222%; }
+.grid-push-8  { left: 65.777%; }
+.grid-push-9  { left: 74.333%; }
+.grid-push-10 { left: 82.888%; }
 
 /* ---------------------------------------------------------------------
  Utility Styles
@@ -174,6 +176,8 @@ textarea {
 /* ---------------------------------------------------------------------
  Base Styles
 ------------------------------------------------------------------------ */
+html, body {height: 100%;}
+
 body {
     background: url(../images/bg-body.jpg) no-repeat fixed 50% top #333333;
     font: 12px/1.2 Helvetica, Arial, sans-serif;
@@ -210,6 +214,8 @@ a:focus { text-decoration: underline; }
 .wrapper {
     width: 960px;
     margin: 0 auto;
+    min-height: 100%;
+    background: #ffffff;
 }
 
 .wrapper-inner { padding: 15px 30px 0; }
@@ -293,9 +299,66 @@ a:focus { text-decoration: underline; }
 
 .hdg-caps { text-transform: uppercase; }
 
+p { padding-bottom: 14px; }
+
 .txt-rev,
 .txt-rev a { color: #ffffff; }
 .txt-ital { font-style: italic; }
+
+/* ---------------------------------------------------------------------
+ Button Styles
+------------------------------------------------------------------------ */
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    height: 20px;
+    line-height: 22px;
+    font-weight: bold;
+    background: url(../images/btn-arrow.png) no-repeat right top #cfe386;
+    border: 1px solid #d8eb93;
+    padding: 8px 25px 8px 13px;
+    -moz-box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.5);
+    -ms-box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.5);
+    -o-box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.5);
+}
+
+.btn:hover {
+    text-decoration: none;
+}
+
+.btn-icon { width: 125px; }
+
+.btn-icon i {
+    display: block;
+    float: left;
+    margin-right: 5px;
+    background: url(../images/sprite-icons.png) no-repeat;
+}
+
+.btn .btn-icon-feed {
+    background-position: -74px 0;
+    width: 20px;
+    height: 19px;
+}
+
+.btn .btn-icon-recipe {
+    background-position: -94px 0;
+    width: 21px;
+    height: 15px;
+    margin-top: 3px;
+}
+
+input + .btn {
+    box-shadow: none;
+    border: 1px solid #aebf70;
+    height: 37px;
+    line-height: 11px;
+    margin-left: -1px;
+    color: #444444;
+}
 
 /* ---------------------------------------------------------------------
  Header Styles
@@ -483,6 +546,26 @@ a:focus { text-decoration: underline; }
     border-right: 15px solid transparent;
 }
 
+.form-newsletter {
+
+}
+
+.form-newsletter input[type=text] {
+    border: 1px solid #bfbfbf;
+    padding: 8px 10px;
+    color: #858782;
+    font-size: 15px;
+    font-weight: bold;
+    width: 155px;
+    float: left;
+    -moz-box-shadow: inset 2px 2px 2px -1px rgba(0,0,0,.3);
+    -webkit-box-shadow: inset 2px 2px 2px -1px rgba(0,0,0,.3);
+    -ms-box-shadow: inset 2px 2px 2px -1px rgba(0,0,0,.3);
+    -o-box-shadow: inset 2px 2px 2px -1px rgba(0,0,0,.3);
+    box-shadow: inset 2px 2px 2px -1px rgba(0,0,0,.3);
+}
+
+
 /* ---------------------------------------------------------------------
  Footer Styles
 ------------------------------------------------------------------------ */
@@ -492,6 +575,9 @@ a:focus { text-decoration: underline; }
     font-size: 11px;
     width: 960px;
     margin: 0 auto;
+    position: relative;
+    margin-top: -100px; /* negative value of footer height */
+    clear: both;
 }
 
 .footer .wrapper-inner { padding-top: 25px; }
@@ -521,15 +607,3 @@ a:focus { text-decoration: underline; }
     margin-left: 15px;
     padding-left: 15px;
 }
-
-
-
-
-html, body {height: 100%;}
-
-.wrapper {min-height: 100%; background: #ffffff;}
-
-.footer {position: relative;
-    margin-top: -100px; /* negative value of footer height */
-    height: 100px;
-    clear:both;} 
