@@ -158,18 +158,18 @@ textarea {
 /* ---------------------------------------------------------------------
  Blocks
 ------------------------------------------------------------------------ */
-.blocks { overflow: hidden; }
+/*.blocks { overflow: hidden; }*/
 
 .blocks > * {
     float: left;
     margin-bottom: 16px;
 }
 
-.blocks-2up { margin-left: -2%; }
+.blocks-2up { margin-left: -4%; }
 
 .blocks-2up > * {
-    width: 48%;
-    margin-left: 2%;
+    width: 46%;
+    margin-left: 4%;
 }
 
 .blocks-3up { margin-left: -2%; }
@@ -194,7 +194,8 @@ textarea {
  Utility Styles
 ------------------------------------------------------------------------ */
 .clearfix:after,
-.grid-row:after {
+.grid-row:after,
+.blocks:after {
     display: block;
     height: 0;
     line-height: 0;
