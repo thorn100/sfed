@@ -156,6 +156,41 @@ textarea {
 .grid-push-10 { left: 82.888%; }
 
 /* ---------------------------------------------------------------------
+ Blocks
+------------------------------------------------------------------------ */
+.blocks { overflow: hidden; }
+
+.blocks > * {
+    float: left;
+    margin-bottom: 16px;
+}
+
+.blocks-2up { margin-left: -2%; }
+
+.blocks-2up > * {
+    width: 48%;
+    margin-left: 2%;
+}
+
+.blocks-3up { margin-left: -2%; }
+
+.blocks-3up > * {
+    width: 31.333%;
+    margin-left: 2%;
+}
+
+.blocks-4up { margin-left: -1%; }
+
+.blocks-4up > * {
+    width: 24%;
+    margin-left: 1%;
+}
+
+.img-wrap + .block-bd {
+    margin-top: 5px;
+}
+
+/* ---------------------------------------------------------------------
  Utility Styles
 ------------------------------------------------------------------------ */
 .clearfix:after,
@@ -183,6 +218,8 @@ body {
     font: 12px/1.2 Helvetica, Arial, sans-serif;
     color: #4e4e4e;
 }
+
+img { max-width: 100% }
 
 input[type='submit'], input[type='image'], label[for], select, button {
     cursor: pointer;
@@ -232,7 +269,8 @@ a:focus { text-decoration: underline; }
     -webkit-box-shadow: 0px 0px 3px 0px rgba(3, 3, 3, .2);
     -ms-box-shadow: 0px 0px 3px 0px rgba(3, 3, 3, .2);
     -o-box-shadow: 0px 0px 3px 0px rgba(3, 3, 3, .2);
-    box-shadow: 0px 0px 3px 0px rgba(3, 3, 3, .2); 
+    box-shadow: 0px 0px 3px 0px rgba(3, 3, 3, .2);
+    display: inline-block;
 }
 
 .img-wrap img { display: block; }
@@ -317,7 +355,7 @@ p { padding-bottom: 14px; }
     font-weight: bold;
     background: url(../images/btn-arrow.png) no-repeat right top #cfe386;
     border: 1px solid #d8eb93;
-    padding: 8px 25px 8px 13px;
+    padding: 8px 30px 8px 13px;
     -moz-box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.5);
     -webkit-box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.5);
     -ms-box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.5);
@@ -329,7 +367,10 @@ p { padding-bottom: 14px; }
     text-decoration: none;
 }
 
-.btn-icon { width: 125px; }
+.btn-icon {
+    width: 125px;
+    padding: 8px 25px 8px 13px;
+}
 
 .btn-icon i {
     display: block;

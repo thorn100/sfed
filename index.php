@@ -69,7 +69,7 @@
                     <h3 class="hdg-3-feat">Buttons</h3>
                 </div>
 
-                <a class="btn" href="#">Button (no icon)</a>
+                <a class="btn" href="#">Button</a>
                 <a class="btn btn-icon" href="#">
                     <i class="btn-icon-feed"></i>
                     Feed Me
@@ -113,6 +113,28 @@
                     <h3 class="hdg-3-feat">Blocks</h3>
                 </div>
 
+                <div class="grid-row">
+                    <div class="grid-col grid-col-6">
+                        <ol class="blocks blocks-2up">
+                            <li>
+                                <div class="img-wrap">
+                                    <img src="assets/images/img-desserts.jpg" alt="Perfect Desserts" />
+                                </div>
+                                <div class="block-bd">
+                                    <h3 class="hdg hdg-3">Perfect Desserts</h3>
+                                    <p>Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="img-wrap">
+                                    <img src="assets/images/img-desserts.jpg" alt="Perfect Desserts" />
+                                </div>
+                            </li>
+                        </ol>
+
+                    </div>
+                </div>
+
                 <div class="ribbon txt-rev">
                     <h3 class="hdg-3-feat">Media Elements</h3>
                 </div>
@@ -123,16 +145,6 @@
                             <img src="assets/images/img-desserts.jpg" alt="Perfect Desserts" />
                         </div>
                     </div>
-                </div>
-
-                <div class="grid-row">
-                    <div class="grid-col grid-col-3">3 of 12</div>
-                    <div class="grid-col grid-col-9">9 of 12</div>
-                </div>
-
-                <div class="grid-row">
-                    <div class="grid-col grid-col-6">6 of 12</div>
-                    <div class="grid-col grid-col-6">6 of 12</div>
                 </div>
             </div>
         </div><!--/.content-->
