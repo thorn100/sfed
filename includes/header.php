@@ -32,31 +32,31 @@
     	<li>
     		<a href="#">
     			Recipies
-    			<i class="icon icon-arrow"></i>
+    			<i class="icon icon-nav-arrow"></i>
     		</a>
     	</li>
     	<li>
     		<a href="#">
     			Holiday
-    			<i class="icon icon-arrow"></i>
+    			<i class="icon icon-nav-arrow"></i>
     		</a>
     	</li>
     	<li>
     		<a href="#">
     			Kitchen
-    			<i class="icon icon-arrow"></i>
+    			<i class="icon icon-nav-arrow"></i>
     		</a>
     	</li>
     	<li>
     		<a href="#">
     			Seasonal
-    			<i class="icon icon-arrow"></i>
+    			<i class="icon icon-nav-arrow"></i>
     		</a>
     	</li>
     	<li>
     		<a href="#">
     			Heroes
-    			<i class="icon icon-arrow"></i>
+    			<i class="icon icon-nav-arrow"></i>
     		</a>
     	</li>
     	<li class="nav-main-alt">

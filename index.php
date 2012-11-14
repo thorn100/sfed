@@ -124,21 +124,87 @@
                         <div class="grid-col grid-col-6">
                             <ol class="blocks blocks-2up">
                                 <li>
-                                    <div class="img-wrap">
-                                        <img src="assets/images/img-desserts.jpg" alt="Perfect Desserts" />
+                                    <div class="block-img">
+                                        <div class="img-wrap">
+                                            <img src="assets/images/img-desserts.jpg" alt="Perfect Desserts" />
+                                        </div>
                                     </div>
                                     <div class="block-bd">
-                                        <h3 class="hdg hdg-3">Perfect Desserts</h3>
-                                        <p>Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
+                                        <h3 class="hdg hdg-3 hdg-recent">
+                                            Perfect Desserts
+                                            <span class="comment-count">
+                                                <a href="#">
+                                                    <i class="icon icon-comment"></i>
+                                                    9
+                                                </a>
+                                            </span>
+                                        </h3>
+                                        <p class="sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
+                                        <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                        <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                     </div>
                                 </li>
                                 <li>
-                                    <div class="img-wrap">
-                                        <img src="assets/images/img-desserts.jpg" alt="Perfect Desserts" />
+                                    <div class="block-img">
+                                        <div class="img-wrap">
+                                            <img src="assets/images/img-desserts.jpg" alt="Perfect Desserts" />
+                                        </div>
                                     </div>
                                     <div class="block-bd">
-                                        <h3 class="hdg hdg-3">Perfect Desserts</h3>
-                                        <p>Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
+                                        <h3 class="hdg hdg-3 hdg-recent">
+                                            Perfect Desserts
+                                            <span class="comment-count">
+                                                <a href="#">
+                                                    <i class="icon icon-comment"></i>
+                                                    9
+                                                </a>
+                                            </span>
+                                        </h3>
+                                        <p class="sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
+                                        <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                        <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="block-img">
+                                        <div class="img-wrap">
+                                            <img src="assets/images/img-desserts.jpg" alt="Perfect Desserts" />
+                                        </div>
+                                    </div>
+                                    <div class="block-bd">
+                                        <h3 class="hdg hdg-3 hdg-recent">
+                                            Perfect Desserts
+                                            <span class="comment-count">
+                                                <a href="#">
+                                                    <i class="icon icon-comment"></i>
+                                                    9
+                                                </a>
+                                            </span>
+                                        </h3>
+                                        <p class="sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
+                                        <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                        <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="block-img">
+                                        <div class="img-wrap">
+                                            <img src="assets/images/img-desserts.jpg" alt="Perfect Desserts" />
+                                        </div>
+                                    </div>
+                                    <div class="block-bd">
+                                        <h3 class="hdg hdg-3 hdg-recent">
+                                            Perfect Desserts
+                                            <span class="comment-count">
+                                                <a href="#">
+                                                    <i class="icon icon-comment"></i>
+                                                    9
+                                                </a>
+                                            </span>
+                                        </h3>
+                                        <p class="sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
+                                        <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                        <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                     </div>
                                 </li>
                             </ol>

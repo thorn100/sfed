@@ -165,11 +165,11 @@ textarea {
     margin-bottom: 16px;
 }
 
-.blocks-2up { margin-left: -4%; }
+.blocks-2up { margin-left: -6.5%; }
 
 .blocks-2up > * {
-    width: 46%;
-    margin-left: 4%;
+    width: 43.5%;
+    margin-left: 6.5%;
 }
 
 .blocks-3up { margin-left: -2%; }
@@ -186,13 +186,19 @@ textarea {
     margin-left: 1%;
 }
 
-.img-wrap + .block-bd {
-    margin-top: 5px;
+.block-img + .block-bd {
+    margin-top: 2px;
 }
 
 /* ---------------------------------------------------------------------
  Utility Styles
 ------------------------------------------------------------------------ */
+.is-hidden {
+    position: absolute;
+    left: -9999px;
+}
+
+/* Clearfix */
 .clearfix:after,
 .grid-row:after,
 .blocks:after {
@@ -204,11 +210,6 @@ textarea {
     content: '.';
 }
 
-.is-hidden {
-    position: absolute;
-    left: -9999px;
-}
-
 /* ---------------------------------------------------------------------
  Base Styles
 ------------------------------------------------------------------------ */
@@ -216,7 +217,7 @@ html, body {height: 100%;}
 
 body {
     background: url(../images/bg-body.jpg) no-repeat fixed 50% top #333333;
-    font: 12px/1.2 Helvetica, Arial, sans-serif;
+    font: 12px/1.4 Helvetica, Arial, sans-serif;
     color: #4e4e4e;
 }
 
@@ -258,9 +259,22 @@ a:focus { text-decoration: underline; }
 
 .wrapper-inner { padding: 15px 30px 0; }
 
-.icon {
-    display: block;
-    background: url(../images/sprite-icons.png) no-repeat 0 0;
+.sep-bottom {
+    border-bottom: 1px solid rgba(104,104,104,.2);
+    margin-bottom: 7px;
+}
+
+.article-cat {
+    font-size: 12px;
+    color: #777777;
+    float: left;
+}
+
+.link-more {
+    font-size: 11px;
+    float: right;
+    margin-top: 2px;
+    margin-right: 5px;
 }
 
 /* Image Wrap */
@@ -314,7 +328,10 @@ a:focus { text-decoration: underline; }
 /* ---------------------------------------------------------------------
  Font/Heading Styles
 ------------------------------------------------------------------------ */
-.serif { font-family: Georgia, Times, "Times New Roman", serif; }
+.serif {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-style: italic;
+}
 .san-serif-alt { font-family: Verdana, Geneva, sans-serif; }
 
 /* Headings */
@@ -338,11 +355,18 @@ a:focus { text-decoration: underline; }
 
 .hdg-caps { text-transform: uppercase; }
 
-p { padding-bottom: 14px; }
+p { padding-bottom: 10px; }
 
 .txt-rev,
 .txt-rev a { color: #ffffff; }
 .txt-ital { font-style: italic; }
+
+/* Block Headings */
+.hdg-recent {
+    padding-bottom: 1px;
+    border-bottom: 2px solid rgba(184,214,76,.9);
+    margin-bottom: 8px;
+}
 
 /* ---------------------------------------------------------------------
  Button Styles
@@ -400,6 +424,93 @@ input + .btn {
     line-height: 11px;
     margin-left: -1px;
     color: #444444;
+}
+
+/* ---------------------------------------------------------------------
+ Icon Styles
+------------------------------------------------------------------------ */
+.icon {
+    display: block;
+    background-image: url(../images/sprite-icons.png);
+    background-repeat: no-repeat;
+}
+
+/* Main Navigation Icons */
+.icon-home {
+    width: 16px;
+    height: 15px;
+    text-indent: -9999px;
+    margin-top: 9px;
+    margin-right: 12px;
+}
+
+.icon-nav-arrow {
+    background-position: -61px 0;
+    width: 8px;
+    height: 13px;
+    vertical-align: top;
+    margin-top: 10px;
+    padding-left: 5px;
+    float: right;
+}
+
+/* Main Navigation Alt Icons */
+.nav-main-alt li + li { margin-left: 34px; }
+
+.nav-main-alt a {
+    padding-left: 5px;
+}
+
+.nav-main-alt .icon {
+    float: left;
+    height: 15px;
+}
+
+.icon-video {
+    width: 13px;
+    margin-top: 9px;
+    background-position: -16px 0;
+}
+
+.icon-social {
+    width: 16px;
+    margin-top: 10px;
+    background-position: -29px 0;
+}
+
+.icon-store {
+    width: 16px;
+    margin-top: 11px;
+    background-position: -45px 0;
+}
+
+/* Comment Count Icon */
+.icon-comment {
+    background-position: -114px 0;
+    width: 10px;
+    height: 9px;
+    float: left;
+    margin-top: 5px;
+    margin-right: 4px;
+}
+
+/* Link Icons */
+.icon-cat-arrow {
+    background-position: -124px 0;
+    float: right;
+    width: 11px;
+    height: 6px;
+    margin-left: 4px;
+    margin-top: 7px;
+}
+
+.icon-more-arrow {
+    background-position: -135px 0;
+    float: right;
+    width: 7px;
+    height: 7px;
+    margin-top: 4px;
+    margin-left: 6px;
 }
 
 /* ---------------------------------------------------------------------
@@ -500,54 +611,6 @@ input + .btn {
 .nav-home { text-indent: -9999px; }
 .nav-home a { background: url(../images/icon-home.png) no-repeat; }
 
-/* Main Navigation Icons */
-.icon-home {
-    width: 16px;
-    height: 15px;
-    text-indent: -9999px;
-    margin-top: 9px;
-    margin-right: 12px;
-}
-
-.icon-arrow {
-    background-position: -61px 0;
-    width: 8px;
-    height: 13px;
-    vertical-align: top;
-    margin-top: 10px;
-    padding-left: 5px;
-    float: right;
-}
-
-/* Main Navigation Alt Icons */
-.nav-main-alt li + li { margin-left: 34px; }
-
-.nav-main-alt a {
-    padding-left: 5px;
-}
-
-.nav-main-alt .icon {
-    float: left;
-    height: 15px;
-}
-
-.icon-video {
-    width: 13px;
-    margin-top: 9px;
-    background-position: -16px 0;
-}
-
-.icon-social {
-    width: 16px;
-    margin-top: 10px;
-    background-position: -29px 0;
-}
-
-.icon-store {
-    width: 16px;
-    margin-top: 11px;
-    background-position: -45px 0;
-}
 
 /* ---------------------------------------------------------------------
  Content Styles
@@ -588,10 +651,6 @@ input + .btn {
     border-right: 15px solid transparent;
 }
 
-.form-newsletter {
-
-}
-
 .form-newsletter input[type=text] {
     border: 1px solid #bfbfbf;
     padding: 8px 10px;
@@ -607,6 +666,16 @@ input + .btn {
     box-shadow: inset 2px 2px 2px -1px rgba(0,0,0,.3);
 }
 
+/* Comment Count */
+.comment-count {
+    float: right;
+}
+
+.comment-count a {
+    color: rgba(0,0,0,.6);
+    font-size: 12px;
+    font-weight: normal;
+}
 
 /* ---------------------------------------------------------------------
  Footer Styles
