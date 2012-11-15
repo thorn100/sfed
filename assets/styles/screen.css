@@ -304,6 +304,17 @@ a:focus { text-decoration: underline; }
     padding-left: 8px;
 }
 
+/* Category Lists */
+.cat-list { line-height: 1.85; }
+
+.entry-count {
+    font-size: 8px;
+    opacity: .5;
+    float: right;
+    text-transform: uppercase;
+    padding-top: 4px;
+}
+
 /* ---------------------------------------------------------------------
  Media Element Styles
 ------------------------------------------------------------------------ */

@@ -244,12 +244,43 @@
                             
                         </div><!--/.grid-col-6-->
                         <div class="grid-col grid-col-6">
+                            <h2 class="hdg hdg-2 hdg-caps is-hidden">Categories List</h2>
                             <div class="column-wrap">
                                 <div class="column-sep">
-                                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.
+                                    <div class="list-wrap">
+                                        <h3 class="hdg hdg-3-alt2 hdg-caps sep-bottom">Articles By Meals</h3>
+                                        <ol class="cat-list">
+                                            <li><a href="#">Meal<span class="entry-count">4 Entries</span></a></li>
+                                            <li><a href="#">Breakfast<span class="entry-count">6 Entries</span></a></li>
+                                            <li><a href="#">Lunch<span class="entry-count">14 Entries</span></a></li>
+                                            <li><a href="#">Dinner<span class="entry-count">18 Entries</span></a></li>
+                                            <li><a href="#">Snack<span class="entry-count">42 Entries</span></a></li>
+                                            <li><a href="#">Dessert<span class="entry-count">20 Entries</span></a></li>
+                                        </ol>
+                                    </div>
                                 </div> 
                                 <div class="column-sep">
-                                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+                                    <div class="list-wrap">
+                                        <h3 class="hdg hdg-3-alt2 hdg-caps sep-bottom">Articles By Occasion</h3>
+                                        <ol class="cat-list">
+                                            <li><a href="#">Barbecue<span class="entry-count">4 Entries</span></a></li>
+                                            <li><a href="#">Christmas<span class="entry-count">6 Entries</span></a></li>
+                                            <li><a href="#">Cocktail Party<span class="entry-count">14 Entries</span></a></li>
+                                            <li><a href="#">Easter<span class="entry-count">18 Entries</span></a></li>
+                                            <li><a href="#">Fourth of July<span class="entry-count">42 Entries</span></a></li>
+                                            <li><a href="#">Halloween<span class="entry-count">20 Entries</span></a></li>
+                                            <li><a href="#">Hanukkah<span class="entry-count">9 Entries</span></a></li>
+                                            <li><a href="#">Holiday<span class="entry-count">28 Entries</span></a></li>
+                                            <li><a href="#">New Year's<span class="entry-count">19 Entries</span></a></li>
+                                            <li><a href="#">Passover<span class="entry-count">30 Entries</span></a></li>
+                                            <li><a href="#">Picnic<span class="entry-count">21 Entries</span></a></li>
+                                            <li><a href="#">St.Patrick's Day<span class="entry-count">10 Entries</span></a></li>
+                                            <li><a href="#">Super Bowl<span class="entry-count">83 Entries</span></a></li>
+                                            <li><a href="#">Thanksgiving<span class="entry-count">19 Entries</span></a></li>
+                                            <li><a href="#">Valentine's Day<span class="entry-count">8 Entries</span></a></li>
+                                            <li><a href="#">Tailgating<span class="entry-count">4 Entries</span></a></li>
+                                        </ol>
+                                    </div>
                                 </div>
                             </div>
                         </div>
