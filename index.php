@@ -389,6 +389,25 @@
                         </div>
                     </div><!--/.grid-row-->
                 </div>
+
+                <div class="section">
+                    <div class="ribbon txt-rev">
+                        <h3 class="hdg-3-feat">Unique Elements</h3>
+                    </div>
+
+                    <div class="grid-row">
+                        <div class="grid-col grid-col-4 grid-push-8">
+                            <div class="panel">
+                                <div class="sign-up-hdg"><i class="icon icon-email"></i> Sign up for the Relish Newsletter</div>
+                                <form class="form-newsletter">
+                                    <input type="text" name="email-newsletter" id="email-newsletter" placeholder="Your Email Address" tabindex="2" />
+                                    <button class="btn">Send It</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div><!--/.content-->
     </div><!--/.wrapper-->
