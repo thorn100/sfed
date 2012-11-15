@@ -184,7 +184,7 @@
                                         </div>
                                     </div>
                                     <div class="block-bd">
-                                        <h3 class="hdg hdg-3 hdg-recent">
+                                        <h3 class="hdg hdg-3 hdg-sep-primary">
                                             Perfect Desserts
                                             <span class="comment-count">
                                                 <a href="#">
@@ -205,7 +205,7 @@
                                         </div>
                                     </div>
                                     <div class="block-bd">
-                                        <h3 class="hdg hdg-3 hdg-recent">
+                                        <h3 class="hdg hdg-3 hdg-sep-primary">
                                             Perfect Desserts
                                             <span class="comment-count">
                                                 <a href="#">
@@ -226,7 +226,7 @@
                                         </div>
                                     </div>
                                     <div class="block-bd">
-                                        <h3 class="hdg hdg-3 hdg-recent">
+                                        <h3 class="hdg hdg-3 hdg-sep-primary">
                                             Perfect Desserts
                                             <span class="comment-count">
                                                 <a href="#">
@@ -244,7 +244,14 @@
                             
                         </div><!--/.grid-col-6-->
                         <div class="grid-col grid-col-6">
-                            list blocks
+                            <div class="column-wrap">
+                                <div class="column-sep">
+                                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.
+                                </div> 
+                                <div class="column-sep">
+                                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -255,37 +262,36 @@
                     </div>
 
                     <div class="grid-row">
-                            <div class="grid-col grid-col-6">
-                                <div class="media media-nowrap">
-                                    <div class="media-elem">
-                                        <div class="img-wrap">
-                                            <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
-                                        </div>
-                                    </div>
-                                    <div class="media-bd">
-                                        <h3 class="hdg hdg-3-alt hdg-recent">Shop for Health</h3>
-                                        <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
-                                        <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
-                                        <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
+                        <div class="grid-col grid-col-6">
+                            <div class="media media-nowrap">
+                                <div class="media-elem">
+                                    <div class="img-wrap">
+                                        <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
                                     </div>
                                 </div>
-                            </div>
-                            <div class="grid-col grid-col-6">
-                                <div class="media media-nowrap">
-                                    <div class="media-elem">
-                                        <div class="img-wrap">
-                                            <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
-                                        </div>
-                                    </div>
-                                    <div class="media-bd">
-                                        <h3 class="hdg hdg-3-alt hdg-recent">Shop for Health</h3>
-                                        <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
-                                        <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
-                                        <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
-                                    </div>
+                                <div class="media-bd">
+                                    <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-primary">Shop for Health</h3>
+                                    <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
+                                    <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                    <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                 </div>
                             </div>
-                        </div><!--/.grid-row-->
+                        </div>
+                        <div class="grid-col grid-col-6">
+                            <div class="media media-nowrap">
+                                <div class="media-elem">
+                                    <div class="img-wrap">
+                                        <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
+                                    </div>
+                                </div>
+                                <div class="media-bd">
+                                    <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-primary">Shop for Health</h3>
+                                    <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
+                                    <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                    <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
 
                     <div class="grid-row">
@@ -299,7 +305,7 @@
                                             </div>
                                         </div>
                                         <div class="media-bd">
-                                            <h3 class="hdg hdg-3-alt hdg-recent">Shop for Health</h3>
+                                            <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-tertiary">Shop for Health</h3>
                                             <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
                                             <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                             <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
@@ -314,7 +320,7 @@
                                             </div>
                                         </div>
                                         <div class="media-bd">
-                                            <h3 class="hdg hdg-3-alt hdg-recent">Shop for Health</h3>
+                                            <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-tertiary">Shop for Health</h3>
                                             <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
                                             <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                             <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
@@ -329,7 +335,7 @@
                                             </div>
                                         </div>
                                         <div class="media-bd">
-                                            <h3 class="hdg hdg-3-alt hdg-recent">Shop for Health</h3>
+                                            <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-secondary">Shop for Health</h3>
                                             <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
                                             <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                             <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
@@ -339,7 +345,6 @@
                             </div>
                         </div>
                     </div><!--/.grid-row-->
-
                 </div>
             </div>
         </div><!--/.content-->
