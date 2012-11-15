@@ -208,23 +208,7 @@
                                     </div>
                                 </li>
                             </ol>
-                            <ol class="blocks">
-                                <li>
-                                    <div class="media media-nowrap">
-                                        <div class="media-elem">
-                                            <div class="img-wrap">
-                                                <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
-                                            </div>
-                                        </div>
-                                        <div class="media-bd">
-                                            <h3 class="hdg hdg-3-alt hdg-recent">Shop for Health</h3>
-                                            <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
-                                            <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
-                                            <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ol>
+                            
                         </div><!--/.grid-col-6-->
                         <div class="grid-col grid-col-6">
                             list blocks
@@ -238,12 +222,91 @@
                     </div>
 
                     <div class="grid-row">
+                            <div class="grid-col grid-col-6">
+                                <div class="media media-nowrap">
+                                    <div class="media-elem">
+                                        <div class="img-wrap">
+                                            <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
+                                        </div>
+                                    </div>
+                                    <div class="media-bd">
+                                        <h3 class="hdg hdg-3-alt hdg-recent">Shop for Health</h3>
+                                        <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
+                                        <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                        <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid-col grid-col-6">
+                                <div class="media media-nowrap">
+                                    <div class="media-elem">
+                                        <div class="img-wrap">
+                                            <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
+                                        </div>
+                                    </div>
+                                    <div class="media-bd">
+                                        <h3 class="hdg hdg-3-alt hdg-recent">Shop for Health</h3>
+                                        <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
+                                        <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                        <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!--/.grid-row-->
+                    </div>
+
+                    <div class="grid-row">
                         <div class="grid-col grid-col-12">
-                            <div class="img-wrap">
-                                <img src="assets/images/img-desserts.jpg" alt="Perfect Desserts" />
+                            <div class="grid-row">
+                                <div class="grid-col grid-col-4">
+                                    <div class="media media-nowrap">
+                                        <div class="media-elem">
+                                            <div class="img-wrap">
+                                                <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
+                                            </div>
+                                        </div>
+                                        <div class="media-bd">
+                                            <h3 class="hdg hdg-3-alt hdg-recent">Shop for Health</h3>
+                                            <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
+                                            <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                            <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid-col grid-col-4">
+                                    <div class="media media-nowrap">
+                                        <div class="media-elem">
+                                            <div class="img-wrap">
+                                                <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
+                                            </div>
+                                        </div>
+                                        <div class="media-bd">
+                                            <h3 class="hdg hdg-3-alt hdg-recent">Shop for Health</h3>
+                                            <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
+                                            <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                            <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid-col grid-col-4">
+                                    <div class="media media-nowrap">
+                                        <div class="media-elem">
+                                            <div class="img-wrap">
+                                                <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
+                                            </div>
+                                        </div>
+                                        <div class="media-bd">
+                                            <h3 class="hdg hdg-3-alt hdg-recent">Shop for Health</h3>
+                                            <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
+                                            <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                            <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                    </div>
+                    </div><!--/.grid-row-->
+
                 </div>
             </div>
         </div><!--/.content-->

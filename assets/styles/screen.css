@@ -162,7 +162,7 @@ textarea {
 
 .blocks > * {
     float: left;
-    margin-bottom: 16px;
+    margin-bottom: 20px;
 }
 
 .blocks-2up { margin-left: -6.5%; }
@@ -201,7 +201,8 @@ textarea {
 /* Clearfix */
 .clearfix:after,
 .grid-row:after,
-.blocks:after {
+.blocks:after,
+.media:after {
     display: block;
     height: 0;
     line-height: 0;
@@ -306,24 +307,28 @@ a:focus { text-decoration: underline; }
 /* ---------------------------------------------------------------------
  Media Element Styles
 ------------------------------------------------------------------------ */
-.media { overflow: hidden; }
+.media { margin-bottom: 20px; }
 
-.media-img {
+.media-elem {
     float: left;
     margin: 0 15px 0 0;
-    overflow: hidden;
 }
 
-.media-img > img {
+.media-elem img {
     display: block;
     max-width: 100%;
     width: auto;
 }
 
-.media-flip > .media-img {
+.media-nowrap .media-bd {
+    overflow: hidden;
+}
+
+.media-flip .media-elem {
     float: right;
     margin: 0 0 0 15px;
 }
+
 
 /* ---------------------------------------------------------------------
  Font/Heading Styles
