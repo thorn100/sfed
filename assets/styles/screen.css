@@ -367,9 +367,15 @@ p { padding-bottom: 10px; }
 .txt-ital { font-style: italic; }
 
 /* Block Headings & Separators*/
-.hdg-sep-primary {
+.hdg-sep-featured {
     padding-bottom: 1px;
     border-bottom: 2px solid rgba(221,69,72,.9);
+    margin-bottom: 8px;
+}
+
+.hdg-sep-primary {
+    padding-bottom: 1px;
+    border-bottom: 2px solid rgba(184,214,76,.9);
     margin-bottom: 8px;
 }
 
