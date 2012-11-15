@@ -142,6 +142,31 @@
                     </div>
 
                     <div class="grid-row">
+                        <div class="grid-col grid-col-8">
+                            <div class="blocks blocks-1up block-feat">
+                                <div>
+                                    <div class="block-img">
+                                        <div class="img-wrap">
+                                            <img src="assets/images/img-feat.jpg" alt="Christmas Sugar Cookies" />
+                                        </div>
+                                    </div>
+                                    <div class="block-bd">
+                                        <h3 class="hdg hdg-3-feat hdg-sep-feat">
+                                            Christmas Sugar Cookies
+                                            <span class="comment-count">
+                                                <a href="#"><i class="icon icon-comment"></i>9</a>
+                                            </span>
+                                        </h3>
+                                        <p class="block-copy sep-bottom">It's not a Halloween party until somebody screams&#8230; whether with terror or delight is up to the host. Here's a few scarifying soiree suggestions for the adults plus&#8230;<a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a></p>
+                                        <span class="article-cat serif">People<i class="icon icon-cat-arrow"></i></span>
+                                        <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!--/.grid-row-->
+
+                    <div class="grid-row">
                         <div class="grid-col grid-col-6">
                             <ol class="blocks blocks-2up">
                                 <li>
@@ -157,7 +182,7 @@
                                                 <a href="#"><i class="icon icon-comment"></i>9</a>
                                             </span>
                                         </h3>
-                                        <p class="sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
+                                        <p class="block-copy sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
                                         <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                         <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                     </div>
@@ -175,7 +200,7 @@
                                                 <a href="#"><i class="icon icon-comment"></i>9</a>
                                             </span>
                                         </h3>
-                                        <p class="sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
+                                        <p class="block-copy sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
                                         <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                         <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                     </div>
@@ -193,7 +218,7 @@
                                                 <a href="#"><i class="icon icon-comment"></i>9</a>
                                             </span>
                                         </h3>
-                                        <p class="sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
+                                        <p class="block-copy sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
                                         <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                         <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                     </div>
@@ -211,7 +236,7 @@
                                                 <a href="#"><i class="icon icon-comment"></i>9</a>
                                             </span>
                                         </h3>
-                                        <p class="sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
+                                        <p class="block-copy sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
                                         <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                         <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                     </div>
@@ -224,7 +249,7 @@
                             <div class="column-wrap">
                                 <div class="column-sep">
                                     <div class="list-wrap">
-                                        <h3 class="hdg hdg-3-alt2 hdg-caps sep-bottom">Articles By Meals</h3>
+                                        <h3 class="hdg hdg-3-alt2 hdg-caps block-copy sep-bottom">Articles By Meals</h3>
                                         <ol class="cat-list">
                                             <li><a href="#">Meal<span class="entry-count">4 Entries</span></a></li>
                                             <li><a href="#">Breakfast<span class="entry-count">6 Entries</span></a></li>
@@ -234,10 +259,21 @@
                                             <li><a href="#">Dessert<span class="entry-count">20 Entries</span></a></li>
                                         </ol>
                                     </div>
+                                    <div class="list-wrap">
+                                        <h3 class="hdg hdg-3-alt2 hdg-caps block-copy sep-bottom">Articles By Dish</h3>
+                                        <ol class="cat-list">
+                                            <li><a href="#">Appetizer<span class="entry-count">4 Entries</span></a></li>
+                                            <li><a href="#">Beverage<span class="entry-count">6 Entries</span></a></li>
+                                            <li><a href="#">Bread<span class="entry-count">14 Entries</span></a></li>
+                                            <li><a href="#">Cake<span class="entry-count">18 Entries</span></a></li>
+                                            <li><a href="#">Candy<span class="entry-count">42 Entries</span></a></li>
+                                            <li><a href="#">Condiment<span class="entry-count">20 Entries</span></a></li>
+                                        </ol>
+                                    </div>
                                 </div> 
                                 <div class="column-sep">
                                     <div class="list-wrap">
-                                        <h3 class="hdg hdg-3-alt2 hdg-caps sep-bottom">Articles By Occasion</h3>
+                                        <h3 class="hdg hdg-3-alt2 hdg-caps block-copy sep-bottom">Articles By Occasion</h3>
                                         <ol class="cat-list">
                                             <li><a href="#">Barbecue<span class="entry-count">4 Entries</span></a></li>
                                             <li><a href="#">Christmas<span class="entry-count">6 Entries</span></a></li>
@@ -278,7 +314,7 @@
                                 </div>
                                 <div class="media-bd">
                                     <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-primary">Shop for Health</h3>
-                                    <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
+                                    <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
                                     <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                     <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                 </div>
@@ -293,7 +329,7 @@
                                 </div>
                                 <div class="media-bd">
                                     <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-primary">Shop for Health</h3>
-                                    <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
+                                    <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
                                     <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                     <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                 </div>
@@ -313,7 +349,7 @@
                                         </div>
                                         <div class="media-bd">
                                             <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-tertiary">Shop for Health</h3>
-                                            <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
+                                            <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
                                             <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                             <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                         </div>
@@ -328,7 +364,7 @@
                                         </div>
                                         <div class="media-bd">
                                             <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-tertiary">Shop for Health</h3>
-                                            <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
+                                            <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
                                             <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                             <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                         </div>
@@ -343,7 +379,7 @@
                                         </div>
                                         <div class="media-bd">
                                             <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-secondary">Shop for Health</h3>
-                                            <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
+                                            <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
                                             <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                             <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                         </div>

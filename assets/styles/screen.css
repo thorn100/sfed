@@ -158,11 +158,14 @@ textarea {
 /* ---------------------------------------------------------------------
  Blocks
 ------------------------------------------------------------------------ */
-/*.blocks { overflow: hidden; }*/
-
 .blocks > * {
     float: left;
     margin-bottom: 20px;
+}
+
+.blocks-1up > * {
+    width: 96%;
+    margin-right: 4%;
 }
 
 .blocks-2up { margin-left: -6.5%; }
@@ -188,6 +191,17 @@ textarea {
 
 .block-img + .block-bd {
     margin-top: 2px;
+}
+
+/* Block Featured */
+.block-copy > .link-more {
+    float: none;
+    margin-left: 5px;
+}
+
+.block-copy > .link-more .icon {
+    display: inline-block;
+    float: none;
 }
 
 /* ---------------------------------------------------------------------
@@ -307,6 +321,8 @@ a:focus { text-decoration: underline; }
 /* Category Lists */
 .cat-list { line-height: 1.85; }
 
+.list-wrap + .list-wrap { margin-top: 25px; }
+
 .entry-count {
     font-size: 8px;
     opacity: .5;
@@ -378,7 +394,7 @@ p { padding-bottom: 10px; }
 .txt-ital { font-style: italic; }
 
 /* Block Headings & Separators*/
-.hdg-sep-featured {
+.hdg-sep-feat {
     padding-bottom: 1px;
     border-bottom: 2px solid rgba(221,69,72,.9);
     margin-bottom: 8px;
@@ -535,8 +551,10 @@ input + .btn {
     width: 10px;
     height: 9px;
     float: left;
-    margin-top: 5px;
-    margin-right: 4px;
+    position: absolute;
+    top: 50%;
+    left: -15px;
+    margin-top: -4px;
 }
 
 /* Link Icons */
@@ -714,6 +732,7 @@ input + .btn {
 /* Comment Count */
 .comment-count {
     float: right;
+    position: relative;
 }
 
 .comment-count a {
