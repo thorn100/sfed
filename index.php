@@ -63,7 +63,34 @@
                         <h3 class="hdg hdg-3-alt">Heading 3 Alternate (14px/bold)</h3>
                         <h3 class="hdg hdg-3-alt2 hdg-caps">Heading 3 Alternate2 (12px/bold/caps)</h3>
 
-                        <p>Default Body Copy (12px/1.2) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus urna sed urna ultricies ac tempor dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus urna sed urna ultricies ac tempor dui.</p>
+                        <p>Default Body Copy (12px/1.4) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus urna sed urna ultricies ac tempor dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus urna sed urna ultricies ac tempor dui.</p>
+                    </div>
+
+                    <div class="grid-row">
+                        <div class="grid-col grid-col-6">
+                            <h2 class="hdg hdg-2 hdg-caps hdg-block-primary">Most Recent</h2>
+                        </div>
+                    </div>
+
+                    <div class="grid-row">
+                        <div class="grid-col grid-col-8">
+                            <h2 class="hdg hdg-2 hdg-caps hdg-block-secondary">Relish Community</h2>
+                        </div>
+                        <div class="grid-col grid-col-4 grid-col-last">
+                            <h2 class="hdg hdg-2 hdg-caps hdg-block-secondary">Store</h2>
+                        </div>
+                    </div>
+
+                    <div class="grid-row">
+                        <div class="grid-col grid-col-4">
+                            <h2 class="hdg hdg-2 hdg-caps hdg-block-tertiary">Health</h2>
+                        </div>
+                        <div class="grid-col grid-col-4">
+                            <h2 class="hdg hdg-2 hdg-caps hdg-block-tertiary">Heroes</h2>
+                        </div>
+                        <div class="grid-col grid-col-4 grid-col-last">
+                            <h2 class="hdg hdg-2 hdg-caps hdg-block-tertiary">Partners</h2>
+                        </div>
                     </div>
                 </div>
 
@@ -99,8 +126,8 @@
                         </div>
 
                         <div class="grid-row">
-                            <div class="grid-col grid-col-3">3 of 12</div>
-                            <div class="grid-col grid-col-9 grid-col-last">9 of 12</div>
+                            <div class="grid-col grid-col-4">4 of 12</div>
+                            <div class="grid-col grid-col-8 grid-col-last">8 of 12</div>
                         </div>
 
                         <div class="grid-row">
@@ -111,6 +138,12 @@
                         <div class="grid-row">
                             <div class="grid-col grid-col-9">9 of 12</div>
                             <div class="grid-col grid-col-3 grid-col-last">3 of 12</div>
+                        </div>
+
+                        <div class="grid-row">
+                            <div class="grid-col grid-col-4">4 of 12</div>
+                            <div class="grid-col grid-col-4">4 of 12</div>
+                            <div class="grid-col grid-col-4 grid-col-last">4 of 12</div>
                         </div>
                     </div>
                 </div>
@@ -130,7 +163,7 @@
                                         </div>
                                     </div>
                                     <div class="block-bd">
-                                        <h3 class="hdg hdg-3 hdg-recent">
+                                        <h3 class="hdg hdg-3 hdg-sep-primary">
                                             Perfect Desserts
                                             <span class="comment-count">
                                                 <a href="#">
@@ -267,7 +300,7 @@
                                         </div>
                                         <div class="media-bd">
                                             <h3 class="hdg hdg-3-alt hdg-recent">Shop for Health</h3>
-                                            <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
+                                            <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
                                             <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                             <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                         </div>
@@ -282,7 +315,7 @@
                                         </div>
                                         <div class="media-bd">
                                             <h3 class="hdg hdg-3-alt hdg-recent">Shop for Health</h3>
-                                            <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
+                                            <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
                                             <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                             <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                         </div>
@@ -297,7 +330,7 @@
                                         </div>
                                         <div class="media-bd">
                                             <h3 class="hdg hdg-3-alt hdg-recent">Shop for Health</h3>
-                                            <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
+                                            <p class="sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
                                             <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                             <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                         </div>

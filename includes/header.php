@@ -15,7 +15,7 @@
 		    </form>
 
 		    <div class="media media-flip txt-rev">
-		    	<div class="media-img"><img src="assets/images/img-relish-current-issue.jpg" alt="Relish Current Issue" /></div>
+		    	<div class="media-elem"><img src="assets/images/img-relish-current-issue.jpg" alt="Relish Current Issue" /></div>
 		    	<div class="media-bd">
 		    		<p class="hdg-4">Current Issue</p>
 		    		<em class="txt-ital">Bringing the Camel Back</em>

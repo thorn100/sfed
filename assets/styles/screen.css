@@ -367,11 +367,39 @@ p { padding-bottom: 10px; }
 .txt-ital { font-style: italic; }
 
 /* Block Headings */
-.hdg-recent {
+.hdg-block-primary {
+    padding: 4px 10px 2px;
+    background: rgba(184,214,76,.9);
+}
+
+.hdg-sep-primary {
     padding-bottom: 1px;
     border-bottom: 2px solid rgba(184,214,76,.9);
     margin-bottom: 8px;
 }
+
+.hdg-block-secondary {
+    padding: 4px 10px 2px;
+    background: #f9d373;
+}
+
+.hdg-sep-secondary {
+    padding-bottom: 1px;
+    border-bottom: 2px solid #f9d373;
+    margin-bottom: 8px;
+}
+
+.hdg-block-tertiary {
+    padding: 4px 10px 2px;
+    background: rgba(90,69,221,.15);
+}
+
+.hdg-sep-tertiary {
+    padding-bottom: 1px;
+    border-bottom: 2px solid rgba(90,69,221,.15);
+    margin-bottom: 8px;
+}
+
 
 /* ---------------------------------------------------------------------
  Button Styles
