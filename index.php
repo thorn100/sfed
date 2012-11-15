@@ -408,6 +408,10 @@
                     </div>
                 </div>
 
+                <div class="ribbon txt-rev">
+                    <h3 class="hdg-3-feat">Search Bar</h3>
+                </div>
+
             </div>
         </div><!--/.content-->
     </div><!--/.wrapper-->
