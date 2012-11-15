@@ -67,12 +67,6 @@
                     </div>
 
                     <div class="grid-row">
-                        <div class="grid-col grid-col-6">
-                            <h2 class="hdg hdg-2 hdg-caps hdg-block-primary">Most Recent</h2>
-                        </div>
-                    </div>
-
-                    <div class="grid-row">
                         <div class="grid-col grid-col-8">
                             <h2 class="hdg hdg-2 hdg-caps hdg-block-secondary">Relish Community</h2>
                         </div>
@@ -100,14 +94,8 @@
                     </div>
 
                     <a class="btn" href="#">Button</a>
-                    <a class="btn btn-icon" href="#">
-                        <i class="btn-icon-feed"></i>
-                        Feed Me
-                    </a>
-                    <a class="btn btn-icon" href="#">
-                        <i class="btn-icon-recipe"></i>
-                        My Recipie Box
-                    </a>
+                    <a class="btn btn-icon" href="#"><i class="btn-icon-feed"></i>Feed Me</a>
+                    <a class="btn btn-icon" href="#"><i class="btn-icon-recipe"></i>My Recipie Box</a>
 
                     <form class="form-newsletter">
                         <input type="text" name="email-newsletter" id="email-newsletter" placeholder="Your Email Address" tabindex="2" />
@@ -166,10 +154,7 @@
                                         <h3 class="hdg hdg-3 hdg-sep-primary">
                                             Perfect Desserts
                                             <span class="comment-count">
-                                                <a href="#">
-                                                    <i class="icon icon-comment"></i>
-                                                    9
-                                                </a>
+                                                <a href="#"><i class="icon icon-comment"></i>9</a>
                                             </span>
                                         </h3>
                                         <p class="sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
@@ -187,10 +172,7 @@
                                         <h3 class="hdg hdg-3 hdg-sep-primary">
                                             Perfect Desserts
                                             <span class="comment-count">
-                                                <a href="#">
-                                                    <i class="icon icon-comment"></i>
-                                                    9
-                                                </a>
+                                                <a href="#"><i class="icon icon-comment"></i>9</a>
                                             </span>
                                         </h3>
                                         <p class="sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
@@ -208,10 +190,7 @@
                                         <h3 class="hdg hdg-3 hdg-sep-primary">
                                             Perfect Desserts
                                             <span class="comment-count">
-                                                <a href="#">
-                                                    <i class="icon icon-comment"></i>
-                                                    9
-                                                </a>
+                                                <a href="#"><i class="icon icon-comment"></i>9</a>
                                             </span>
                                         </h3>
                                         <p class="sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
@@ -229,10 +208,7 @@
                                         <h3 class="hdg hdg-3 hdg-sep-primary">
                                             Perfect Desserts
                                             <span class="comment-count">
-                                                <a href="#">
-                                                    <i class="icon icon-comment"></i>
-                                                    9
-                                                </a>
+                                                <a href="#"><i class="icon icon-comment"></i>9</a>
                                             </span>
                                         </h3>
                                         <p class="sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>

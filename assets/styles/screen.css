@@ -390,11 +390,6 @@ p { padding-bottom: 10px; }
     margin-bottom: 8px;
 }
 
-.hdg-block-primary {
-    padding: 4px 10px 2px;
-    background: rgba(184,214,76,.9);
-}
-
 .hdg-block-secondary {
     padding: 4px 10px 2px;
     background: #f9d373;

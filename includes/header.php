@@ -26,59 +26,17 @@
     	</div><!--/.toolbox-->
     </div><!--/.wrapper-inner-->
     <ul class="nav-main h-list" role="navigation">
-    	<li>
-    		<a href="#"><i class="icon icon-home">Home</i></a>
-    	</li>
-    	<li>
-    		<a href="#">
-    			Recipies
-    			<i class="icon icon-nav-arrow"></i>
-    		</a>
-    	</li>
-    	<li>
-    		<a href="#">
-    			Holiday
-    			<i class="icon icon-nav-arrow"></i>
-    		</a>
-    	</li>
-    	<li>
-    		<a href="#">
-    			Kitchen
-    			<i class="icon icon-nav-arrow"></i>
-    		</a>
-    	</li>
-    	<li>
-    		<a href="#">
-    			Seasonal
-    			<i class="icon icon-nav-arrow"></i>
-    		</a>
-    	</li>
-    	<li>
-    		<a href="#">
-    			Heroes
-    			<i class="icon icon-nav-arrow"></i>
-    		</a>
-    	</li>
+    	<li><a href="#"><i class="icon icon-home">Home</i></a></li>
+    	<li><a href="#">Recipies<i class="icon icon-nav-arrow"></i></a></li>
+    	<li><a href="#">Holiday<i class="icon icon-nav-arrow"></i></a></li>
+    	<li><a href="#">Kitchen<i class="icon icon-nav-arrow"></i></a></li>
+    	<li><a href="#">Seasonal<i class="icon icon-nav-arrow"></i></a></li>
+    	<li><a href="#">Heroes<i class="icon icon-nav-arrow"></i></a></li>
     	<li class="nav-main-alt">
     		<ul class="h-list">
-		    	<li>
-		    		<a href="#">
-		    			<i class="icon icon-video"></i>
-		    			Video
-			    	</a>
-		    	</li>
-		    	<li>
-		    		<a href="#">
-		    			<i class="icon icon-social"></i>
-			    		Social
-				    </a>
-			    </li>
-		    	<li>
-		    		<a href="#">
-		    			<i class="icon icon-store"></i>
-			    		Store
-				    </a>
-				</li>
+              	<li><a href="#"><i class="icon icon-video"></i>Video</a></li>
+		    	<li><a href="#"><i class="icon icon-social"></i>Social</a></li>
+		    	<li><a href="#"><i class="icon icon-store"></i>Store</a></li>
     		</ul>
     	</li>
     </ul>
