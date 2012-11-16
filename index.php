@@ -35,11 +35,11 @@
             .grid .grid-col:nth-of-type(1n) { background: #19EDED; background: rgba(242,242,242,.9); }
             .grid .grid-col:nth-of-type(2n) { background: #4CC9C9; background: rgba(242,242,242,.5); }
 
-            .ribbon { margin-top: 10px; }
+            /*.ribbon { margin-top: 10px; }*/
 
-            .btn { margin-bottom: 10px; }
+            /*.btn { margin-bottom: 10px; }*/
 
-            .btn + .btn { margin-left: 20px; }
+            /*.btn + .btn { margin-left: 20px; }*/
         </style>
     </head>
 
@@ -92,18 +92,23 @@
                     <div class="ribbon txt-rev">
                         <h3 class="hdg-3-feat">Buttons</h3>
                     </div>
+                    <div class="grid-row">
+                        <div class="grid-col grid-col-12">
+                            <ul>
+                                <li style="margin-bottom: 15px;"><a class="btn" href="#">Button</a></li>
+                                <li style="margin-bottom: 15px;"><a class="btn btn-icon" href="#"><i class="icon btn-icon-feed"></i>Feed Me</a></li>
+                                <li style="margin-bottom: 15px;"><a class="btn btn-icon" href="#"><i class="icon btn-icon-recipe"></i>My Recipie Box</a></li>
+                                <li style="margin-bottom: 15px;"><a class="btn btn-submit" href="#">Submit</a></li>
+                                <li style="margin-bottom: 15px;"><input class="btn btn-submit" type="submit" value="Submit" /></li>
+                                <li style="margin-bottom: 15px;"><button class="btn btn-submit">Submit</button></li>
+                            </ul>
 
-                    <a class="btn" href="#">Button</a>
-                    <a class="btn btn-icon" href="#"><i class="icon btn-icon-feed"></i>Feed Me</a>
-                    <a class="btn btn-icon" href="#"><i class="icon btn-icon-recipe"></i>My Recipie Box</a><br />
-                    <a class="btn btn-submit" href="#">Submit</a>
-                    <input class="btn btn-submit" type="submit" value="Submit" />
-                    <button class="btn btn-submit">Submit</button>
-
-                    <form class="form-newsletter">
-                        <input class="input-text" type="text" name="email-newsletter" id="email-newsletter" placeholder="Your Email Address" tabindex="2" />
-                        <button class="btn">Send It</button>
-                    </form>
+                            <form class="form-newsletter">
+                                <input class="input-text" type="text" name="email-newsletter" id="email-newsletter" placeholder="Your Email Address" tabindex="2" />
+                                <button class="btn">Send It</button>
+                            </form>
+                        </div>
+                    </div>
                 </div>
 
                 <div class="section">
@@ -398,20 +403,22 @@
                         <h3 class="hdg-3-feat">Unique Elements</h3>
                     </div>
 
-                    <div class="ribbon txt-rev">
-                        <h3 class="hdg hdg-3-alt2 hdg-caps">Heading 3 Alternate2 (12px/bold/caps)</h3>
-                        <a class="link-more-alt" href="#">Browse All Recipies</a>
-                                <form class="form-newsletter">
-                                    <input class="input-text" type="text" name="email-newsletter" id="email-newsletter" placeholder="Your Email Address" tabindex="2" />
-                                    <button class="btn">Send It</button>
-                                </form>
+                    <div class="ribbon">
+                        <div class="search-bar clearfix">
+                            <h3 class="hdg hdg-3-alt2 hdg-caps txt-rev">Search Recipies</h3>
+                            <a class="link-more-alt txt-rev" href="#">Browse All Recipies<i class="icon icon-more-arrow-rev"></i></a>
+                            <form class="form-search-recipies">
+                                <input class="input-text" type="text" name="search-recipies" id="search-recipies" placeholder="What are you hungry for?" tabindex="2" />
+                                <button class="btn">Search</button>
+                            </form>
 
-                        <a class="btn btn-icon" href="#"><i class="icon btn-icon-feed"></i>Feed Me</a>
-                        <a class="btn btn-icon" href="#"><i class="icon btn-icon-recipe"></i>My Recipie Box</a><br />
+                            <a class="btn btn-icon" href="#"><i class="icon btn-icon-feed"></i>Feed Me</a>
+                            <a class="btn btn-icon" href="#"><i class="icon btn-icon-recipe"></i>My Recipie Box</a>
 
-                        <div class="help">
-                            <p class="san-serif ">Ideas: easy lasagna, baked fries, easy desserts, ribs</p>
-                            <p>Please <a href="#">login</a> to use these services.</p>
+                            <div class="help">
+                                <p class="san-serif-alt tips">Ideas: easy lasagna, baked fries, easy desserts, ribs</p>
+                                <p class="login">Please <a href="#">login</a> to use these services.</p>
+                            </div>
                         </div>
                     </div>
 

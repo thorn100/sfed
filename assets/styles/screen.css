@@ -334,7 +334,7 @@ input[type=text] {
 }
 
 .input-text-alt::-webkit-input-placeholder,
-.input-text-altg:-moz-input-placeholder { color: #858782; }
+.input-text-alt:-moz-input-placeholder { color: #858782; }
 
 
 
@@ -393,7 +393,7 @@ input[type=text] {
  Panel Styles
 ------------------------------------------------------------------------ */
 .panel {
-    padding: 14px 1px 7px;
+    padding: 14px 19px 7px;
     border: 1px solid #dcdbdb;
     background: #f2f2f2;
 }
@@ -486,7 +486,7 @@ p { padding-bottom: 10px; }
     display: inline-block;
     text-decoration: none;
     font-size: 13px;
-    height: 20px;
+    height: 19px;
     line-height: 22px;
     font-weight: bold;
     background: url(../images/btn-arrow.png) no-repeat right top #cfe386;
@@ -666,6 +666,15 @@ input[type=text] + .btn {
     float: right;
     width: 7px;
     height: 7px;
+    margin-top: 5px;
+    margin-left: 4px;
+}
+
+.icon-more-arrow-rev {
+    background-position: -198px 0;
+    float: right;
+    width: 6px;
+    height: 6px;
     margin-top: 4px;
     margin-left: 6px;
 }
@@ -778,7 +787,7 @@ input[type=text] + .btn {
 .ribbon {
     background: #4b4a48;
     margin: 0 -45px 35px;
-    padding: 12px 45px;
+    padding: 15px 43px;
     border-left: 2px solid rgba(255,255,255,.1);
     border-right: 2px solid rgba(255,255,255,.1);
     position: relative;
@@ -835,6 +844,51 @@ input[type=text] + .btn {
 
 .column-sep + .column-sep {
     margin-left: 24px;
+}
+
+/* ---------------------------------------------------------------------
+ Search Bar Styles
+------------------------------------------------------------------------ */
+.search-bar .hdg-3-alt2 {
+    float: left;
+    margin-bottom: 4px;
+}
+.search-bar .link-more-alt { float: right; }
+
+.form-search-recipies {
+    clear: both;
+    float: left;
+    margin-right: 23px;
+}
+
+.form-search-recipies .input-text { width: 428px; }
+
+.form-search-recipies .input-text::-webkit-input-placeholder,
+.form-search-recipies .input-text:-moz-input-placeholder { color: #333333; }
+
+
+.search-bar > .btn { float: left; }
+
+.search-bar .btn + .btn { margin-left: 15px; }
+
+.help {
+    clear: both;
+    color: rgba(255,255,255,.5);
+    overflow: hidden;
+}
+
+.tips {
+    font-size: 12px;
+    float: left;
+}
+.login {
+    font-size: 11px;
+    float: right;
+}
+
+.login a {
+    color: rgba(255,255,255,.5);
+    text-decoration: underline;
 }
 
 /* ---------------------------------------------------------------------
