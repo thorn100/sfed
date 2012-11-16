@@ -10,7 +10,7 @@
     		</ul>
 
     		<form class="form-search-site">
-		        <input type="text" name="search-site" id="search-site" placeholder="Search Site" tabindex="1" />
+		        <input class="input-text-alt" type="text" name="search-site" id="search-site" placeholder="Search Site" tabindex="1" />
 		        <button>Submit</button>
 		    </form>
 

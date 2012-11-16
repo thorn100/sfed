@@ -101,7 +101,7 @@
                     <button class="btn btn-submit">Submit</button>
 
                     <form class="form-newsletter">
-                        <input type="text" name="email-newsletter" id="email-newsletter" placeholder="Your Email Address" tabindex="2" />
+                        <input class="input-text" type="text" name="email-newsletter" id="email-newsletter" placeholder="Your Email Address" tabindex="2" />
                         <button class="btn">Send It</button>
                     </form>
                 </div>
@@ -398,23 +398,35 @@
                         <h3 class="hdg-3-feat">Unique Elements</h3>
                     </div>
 
+                    <div class="ribbon txt-rev">
+                        <h3 class="hdg hdg-3-alt2 hdg-caps">Heading 3 Alternate2 (12px/bold/caps)</h3>
+                        <a class="link-more-alt" href="#">Browse All Recipies</a>
+                                <form class="form-newsletter">
+                                    <input class="input-text" type="text" name="email-newsletter" id="email-newsletter" placeholder="Your Email Address" tabindex="2" />
+                                    <button class="btn">Send It</button>
+                                </form>
+
+                        <a class="btn btn-icon" href="#"><i class="icon btn-icon-feed"></i>Feed Me</a>
+                        <a class="btn btn-icon" href="#"><i class="icon btn-icon-recipe"></i>My Recipie Box</a><br />
+
+                        <div class="help">
+                            <p class="san-serif ">Ideas: easy lasagna, baked fries, easy desserts, ribs</p>
+                            <p>Please <a href="#">login</a> to use these services.</p>
+                        </div>
+                    </div>
+
                     <div class="grid-row">
                         <div class="grid-col grid-col-4 grid-push-8">
                             <div class="panel panel-newsletter">
                                 <div class="panel-hdg"><i class="icon icon-email"></i> Sign up for the Relish Newsletter</div>
                                 <form class="form-newsletter">
-                                    <input type="text" name="email-newsletter" id="email-newsletter" placeholder="Your Email Address" tabindex="2" />
+                                    <input class="input-text" type="text" name="email-newsletter" id="email-newsletter" placeholder="Your Email Address" tabindex="2" />
                                     <button class="btn">Send It</button>
                                 </form>
                             </div>
                         </div>
                     </div>
                 </div>
-
-                <div class="ribbon txt-rev">
-                    <h3 class="hdg-3-feat">Search Bar</h3>
-                </div>
-
             </div>
         </div><!--/.content-->
     </div><!--/.wrapper-->
