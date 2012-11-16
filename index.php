@@ -94,8 +94,11 @@
                     </div>
 
                     <a class="btn" href="#">Button</a>
-                    <a class="btn btn-icon" href="#"><i class="btn-icon-feed"></i>Feed Me</a>
-                    <a class="btn btn-icon" href="#"><i class="btn-icon-recipe"></i>My Recipie Box</a>
+                    <a class="btn btn-icon" href="#"><i class="icon btn-icon-feed"></i>Feed Me</a>
+                    <a class="btn btn-icon" href="#"><i class="icon btn-icon-recipe"></i>My Recipie Box</a><br />
+                    <a class="btn btn-submit" href="#">Submit</a>
+                    <input class="btn btn-submit" type="submit" value="Submit" />
+                    <button class="btn btn-submit">Submit</button>
 
                     <form class="form-newsletter">
                         <input type="text" name="email-newsletter" id="email-newsletter" placeholder="Your Email Address" tabindex="2" />
