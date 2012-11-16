@@ -363,10 +363,18 @@ a:focus { text-decoration: underline; }
  Panel Styles
 ------------------------------------------------------------------------ */
 .panel {
-    padding: 15px 20px;
+    padding: 14px 18px 7px;
     border: 1px solid #dcdbdb;
     background: #f2f2f2;
-    width: 95%;
+}
+
+/* Newsletter Sign Up */
+.panel-newsletter { width: 93%; }
+
+.panel-hdg {
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 10px;
 }
 
 /* ---------------------------------------------------------------------
@@ -453,7 +461,7 @@ p { padding-bottom: 10px; }
     font-weight: bold;
     background: url(../images/btn-arrow.png) no-repeat right top #cfe386;
     border: 1px solid #d8eb93;
-    padding: 8px 30px 8px 13px;
+    padding: 8px 26px 8px 10px;
     -moz-box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.5);
     -webkit-box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.5);
     -ms-box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.5);
@@ -624,6 +632,8 @@ input[type=text] + .btn {
     width: 16px;
     height: 11px;
     float: left;
+    margin-top: 3px;
+    margin-right: 7px;
 }
 
 .icon-community {
@@ -675,11 +685,14 @@ input[type=text] + .btn {
     border: 1px solid #5f5f5f;
     padding: 4px 10px 5px;
     width: 135px;
-    color: #858782;
     font-size: 13px;
     font-weight: bold;
     float: left;
 }
+
+.form-search-site input[type=text]::-webkit-input-placeholder,
+.form-search-site input[type=text]:-moz-input-placeholder { color: #858782; }
+
 
 .form-search-site button {
     border: 1px solid #5f5f5f;
@@ -779,10 +792,9 @@ input[type=text] + .btn {
 .form-newsletter input[type=text] {
     border: 1px solid #bfbfbf;
     padding: 8px 10px;
-    color: #858782;
     font-size: 15px;
     font-weight: bold;
-    width: 155px;
+    width: 154px;
     float: left;
     -moz-box-shadow: inset 2px 2px 2px -1px rgba(0,0,0,.3);
     -webkit-box-shadow: inset 2px 2px 2px -1px rgba(0,0,0,.3);
@@ -790,6 +802,7 @@ input[type=text] + .btn {
     -o-box-shadow: inset 2px 2px 2px -1px rgba(0,0,0,.3);
     box-shadow: inset 2px 2px 2px -1px rgba(0,0,0,.3);
 }
+
 
 /* Comment Count */
 .comment-count {
