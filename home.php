@@ -213,39 +213,39 @@
                         <div class="media media-nowrap">
                             <div class="media-elem">
                                 <div class="img-wrap">
-                                    <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
+                                    <img src="assets/images/img-shop.jpg" alt="Shop for Health" />
                                 </div>
                             </div>
                             <div class="media-bd">
                                 <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-primary">Shop for Health</h3>
                                 <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
-                                <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                <span class="article-cat serif">Health<i class="icon icon-cat-arrow"></i></span>
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
                         <div class="media media-nowrap">
                             <div class="media-elem">
                                 <div class="img-wrap">
-                                    <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
+                                    <img src="assets/images/img-shop.jpg" alt="Shop for Health" />
                                 </div>
                             </div>
                             <div class="media-bd">
                                 <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-primary">Shop for Health</h3>
                                 <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
-                                <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                <span class="article-cat serif">Health<i class="icon icon-cat-arrow"></i></span>
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
                         <div class="media media-nowrap">
                             <div class="media-elem">
                                 <div class="img-wrap">
-                                    <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
+                                    <img src="assets/images/img-shop.jpg" alt="Shop for Health" />
                                 </div>
                             </div>
                             <div class="media-bd">
                                 <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-primary">Shop for Health</h3>
                                 <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
-                                <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                <span class="article-cat serif">Health<i class="icon icon-cat-arrow"></i></span>
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
@@ -374,7 +374,7 @@
                             <div class="blocks blocks-1up">
                                 <div>
                                     <div class="block-bd">
-                                        <h3 class="hdg hdg-3"><i class="icon icon-community"></i>Welcome to the Community</h3>
+                                        <h3 class="hdg hdg-3-alt3"><i class="icon icon-community"></i>Welcome to the Community</h3>
                                         <p>Whether it’s your grandmother’s cookie recipe or the mac and cheese you baked for the office potluck, when you prepare food and share it with others, you’re saying something special. So welcome to Relish. Join the conversation.</p>
                                     </div>
                                     <div class="block-img">
@@ -388,7 +388,7 @@
                         </div>
                         <div class="grid-col grid-col-5">
                             <div class="column-sep">
-                                <h3 class="hdg hdg-3"><i class="icon icon-poll"></i>Community Poll</h3>
+                                <h3 class="hdg hdg-3-alt3"><i class="icon icon-poll"></i>Community Poll</h3>
                                 <p>How ofter do you cook at home?</p>
                                 <form class="poll">
                                     <ol class="poll-list">
@@ -429,27 +429,27 @@
                         <div class="media media-nowrap">
                             <div class="media-elem">
                                 <div class="img-wrap">
-                                    <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
+                                    <img src="assets/images/img-get-togethers.jpg" alt="Get-Togethers" />
                                 </div>
                             </div>
                             <div class="media-bd">
-                                <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-secondary">Shop for Health</h3>
-                                <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
-                                <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
-                                <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
+                                <h3 class="hdg hdg-3-alt3 hdg-recent hdg-sep-secondary">Get-Togethers</h3>
+                                <p class="block-copy sep-bottom">American Profile focuses on what makes the hometowns of America great: a sense &#8230;</p>
+                                <span class="article-cat serif">$39.99</span>
+                                <a class="link-more" href="#">More Details<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
                         <div class="media media-nowrap">
                             <div class="media-elem">
                                 <div class="img-wrap">
-                                    <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
+                                    <img src="assets/images/img-cookbooks.jpg" alt="Free Cookbooks" />
                                 </div>
                             </div>
                             <div class="media-bd">
-                                <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-secondary">Shop for Health</h3>
-                                <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
-                                <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
-                                <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
+                                <h3 class="hdg hdg-3-alt3 hdg-recent hdg-sep-secondary">Shop for Health</h3>
+                                <p class="block-copy sep-bottom">Enjoy Simply Stunning Holiday Desserts, Philly Tast of Heaven and Best Holiday Cookies&#8230;</p>
+                                <span class="article-cat serif">Free</span>
+                                <a class="link-more" href="#">More Details<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
                     </div><!--/.grid-col-4-->
@@ -463,11 +463,11 @@
                         <div class="media media-nowrap">
                             <div class="media-elem">
                                 <div class="img-wrap">
-                                    <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
+                                    <img src="assets/images/img-shop.jpg" alt="Shop for Health" />
                                 </div>
                             </div>
                             <div class="media-bd">
-                                <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-tertiary">Shop for Health</h3>
+                                <h3 class="hdg hdg-3-alt3 hdg-recent hdg-sep-tertiary">Shop for Health</h3>
                                 <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
                                 <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
@@ -476,13 +476,13 @@
                         <div class="media media-nowrap">
                             <div class="media-elem">
                                 <div class="img-wrap">
-                                    <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
+                                    <img src="assets/images/img-bone-health.jpg" alt="Bone Health" />
                                 </div>
                             </div>
                             <div class="media-bd">
-                                <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-tertiary">Shop for Health</h3>
-                                <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
-                                <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                <h3 class="hdg hdg-3-alt3 hdg-recent hdg-sep-tertiary">Bone Health</h3>
+                                <p class="block-copy sep-bottom">With its sprightly, fresh taste, this salsa is perfect with chips or salsa is perfect with chips or&#8230;</p>
+                                <span class="article-cat serif">Health<i class="icon icon-cat-arrow"></i></span>
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
@@ -495,26 +495,26 @@
                         <div class="media media-nowrap">
                             <div class="media-elem">
                                 <div class="img-wrap">
-                                    <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
+                                    <img src="assets/images/img-jamie-oliver.jpg" alt="Jamie Oliver" />
                                 </div>
                             </div>
                             <div class="media-bd">
-                                <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-tertiary">Shop for Health</h3>
-                                <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
-                                <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                <h3 class="hdg hdg-3-alt3 hdg-recent hdg-sep-tertiary">Jamie Oliver</h3>
+                                <p class="block-copy sep-bottom">When Jamie Oliver encourages kids to get in the kitchen and start connecting the dots&#8230;</p>
+                                <span class="article-cat serif">Heroes<i class="icon icon-cat-arrow"></i></span>
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
                         <div class="media media-nowrap">
                             <div class="media-elem">
                                 <div class="img-wrap">
-                                    <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
+                                    <img src="assets/images/img-chef-2.jpg" alt="Chef Name Two" />
                                 </div>
                             </div>
                             <div class="media-bd">
-                                <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-tertiary">Shop for Health</h3>
-                                <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
-                                <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                <h3 class="hdg hdg-3-alt3 hdg-recent hdg-sep-tertiary">Shop for Health</h3>
+                                <p class="block-copy sep-bottom">With its sprightly, fresh taste, this salsa is perfect with chips or salsa is perfect with chips or&#8230;</p>
+                                <span class="article-cat serif">Heroes<i class="icon icon-cat-arrow"></i></span>
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
@@ -527,26 +527,26 @@
                         <div class="media media-nowrap">
                             <div class="media-elem">
                                 <div class="img-wrap">
-                                    <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
+                                    <img src="assets/images/img-salsa.jpg" alt="Shop for Health" />
                                 </div>
                             </div>
                             <div class="media-bd">
-                                <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-tertiary">Shop for Health</h3>
+                                <h3 class="hdg hdg-3-alt3 hdg-recent hdg-sep-tertiary">Shop for Health</h3>
                                 <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
-                                <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                <span class="article-cat serif">Partners<i class="icon icon-cat-arrow"></i></span>
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
                         <div class="media media-nowrap">
                             <div class="media-elem">
                                 <div class="img-wrap">
-                                    <img src="http://placehold.it/75x76" alt="Media Element Image Placeholder" />
+                                    <img src="assets/images/img-bone-health.jpg" alt="Bone Health" />
                                 </div>
                             </div>
                             <div class="media-bd">
-                                <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-tertiary">Shop for Health</h3>
-                                <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
-                                <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                <h3 class="hdg hdg-3-alt3 hdg-recent hdg-sep-tertiary">Bone Health</h3>
+                                <p class="block-copy sep-bottom">With its sprightly, fresh taste, this salsa is perfect with chips or salsa is perfect with chips or&#8230;</p>
+                                <span class="article-cat serif">Partners<i class="icon icon-cat-arrow"></i></span>
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>

@@ -58,6 +58,7 @@
                         <h3 class="hdg hdg-3">Heading 3 (16px/bold)</h3>
                         <h3 class="hdg hdg-3-alt">Heading 3 Alternate (14px/bold)</h3>
                         <h3 class="hdg hdg-3-alt2 hdg-caps">Heading 3 Alternate2 (12px/bold/caps)</h3>
+                        <h3 class="hdg hdg-3-alt3">Heading 3 Alternate3 (18px/bold)</h3>
 
                         <p>Default Body Copy (12px/1.4) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus urna sed urna ultricies ac tempor dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus urna sed urna ultricies ac tempor dui.</p>
                     </div>

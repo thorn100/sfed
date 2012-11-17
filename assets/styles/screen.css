@@ -163,7 +163,7 @@ textarea {
 
 .blocks > * {
     float: left;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 .blocks-1up > * {
@@ -287,7 +287,7 @@ a:focus { text-decoration: underline; }
 .sep-bottom {
     border-bottom: 1px solid rgba(104,104,104,.2);
     padding-bottom: 7px;
-    margin-bottom: 5px;
+    margin-bottom: 7px;
 }
 
 .article-cat {
@@ -360,9 +360,11 @@ input[type=text] {
 }
 
 /* Category Lists */
-.cat-list { line-height: 1.85; }
+.cat-list { line-height: 1.8; }
 
-.list-wrap + .list-wrap { margin-top: 25px; }
+.list-wrap + .list-wrap { margin-top: 19px; }
+
+.list-wrap .sep-bottom { padding-bottom: 1px; }
 
 .entry-count {
     font-size: 8px;
@@ -459,6 +461,11 @@ input[type=text] {
 
 .hdg-3-alt { font-size: 14px; }
 .hdg-3-alt2 { font-size: 12px; }
+
+.hdg-3-alt3 {
+    font-size: 18px;
+    margin-bottom: 6px;
+}
 
 .hdg-4 {
     font-size: 13px;
@@ -711,7 +718,7 @@ input[type=text] + .btn {
     float: right;
     width: 7px;
     height: 7px;
-    margin-top: 5px;
+    margin-top: 4px;
     margin-left: 4px;
 }
 
@@ -748,7 +755,7 @@ input[type=text] + .btn {
     width: 24px;
     height: 11px;
     float: left;
-    margin-top: 4px;
+    margin-top: 5px;
     margin-right: 6px;
 }
 
@@ -757,7 +764,7 @@ input[type=text] + .btn {
     width: 16px;
     height: 12px;
     float: left;
-    margin-top: 3px;
+    margin-top: 5px;
     margin-right: 7px;
 }
 
