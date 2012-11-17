@@ -420,7 +420,10 @@ input[type=text] {
 }
 
 /* Newsletter Sign Up */
-.panel-newsletter { width: 260px; }
+.panel-newsletter {
+    width: 260px;
+    margin-left: -15px;
+}
 
 .panel-hdg {
     font-size: 13px;
@@ -946,6 +949,8 @@ input[type=text] + .btn {
  Advertisement Styles
 ------------------------------------------------------------------------ */
 .ad-wrap { margin-bottom: 4px; }
+
+.ad-feat { margin-left: -15px; }
 
 .ad-wrap img + img {
     margin-top: 10px;
