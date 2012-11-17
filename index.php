@@ -34,12 +34,6 @@
             .grid .grid-row { background: #FF4C4C; background: rgba(75,74,77,.7); }
             .grid .grid-col:nth-of-type(1n) { background: #19EDED; background: rgba(242,242,242,.9); }
             .grid .grid-col:nth-of-type(2n) { background: #4CC9C9; background: rgba(242,242,242,.5); }
-
-            /*.ribbon { margin-top: 10px; }*/
-
-            /*.btn { margin-bottom: 10px; }*/
-
-            /*.btn + .btn { margin-left: 20px; }*/
         </style>
     </head>
 
@@ -51,7 +45,9 @@
             <div class="wrapper-inner clearfix">
                 <div class="section">
                     <div class="ribbon txt-rev">
-                        <h3 class="hdg-3-feat">Headings</h3>
+                        <div class="ribbon-wrap">
+                            <h3 class="hdg-3-feat">Headings</h3>
+                        </div>
                     </div>
 
                     <div class="grid-row">
@@ -100,7 +96,9 @@
 
                 <div class="section">
                     <div class="ribbon txt-rev">
-                        <h3 class="hdg-3-feat">Buttons</h3>
+                        <div class="ribbon-wrap">
+                            <h3 class="hdg-3-feat">Buttons</h3>
+                        </div>
                     </div>
                     <div class="grid-row">
                         <div class="grid-col grid-col-12">
@@ -123,7 +121,9 @@
 
                 <div class="section">
                     <div class="ribbon txt-rev">
-                        <h3 class="hdg-3-feat">Grid</h3>
+                        <div class="ribbon-wrap">
+                            <h3 class="hdg-3-feat">Grid</h3>
+                        </div>
                     </div>
 
                     <div class="grid">
@@ -156,7 +156,9 @@
 
                 <div class="section">
                     <div class="ribbon txt-rev">
-                        <h3 class="hdg-3-feat">Blocks</h3>
+                        <div class="ribbon-wrap">
+                            <h3 class="hdg-3-feat">Blocks</h3>
+                        </div>
                     </div>
 
                     <div class="grid-row">
@@ -319,7 +321,9 @@
 
                 <div class="section">
                     <div class="ribbon txt-rev">
-                        <h3 class="hdg-3-feat">Media Elements</h3>
+                        <div class="ribbon-wrap">
+                            <h3 class="hdg-3-feat">Media Elements</h3>
+                        </div>
                     </div>
 
                     <div class="grid-row">
@@ -410,32 +414,37 @@
 
                 <div class="section">
                     <div class="ribbon txt-rev">
-                        <h3 class="hdg-3-feat">Unique Elements</h3>
+                        <div class="ribbon-wrap">
+                            <h3 class="hdg-3-feat">Unique Elements</h3>
+                        </div>
                     </div>
 
                     <div class="ribbon">
-                        <div class="search-bar clearfix">
-                            <div class="hdg-block">
-                                <h3 class="hdg hdg-3-alt2 hdg-caps txt-rev">Search Recipies</h3>
-                                <a class="link-more-alt txt-rev" href="#">Browse All Recipies<i class="icon icon-more-arrow-rev"></i></a>
-                            </div>
-                            <form class="form-search-recipies">
-                                <input class="input-text" type="text" name="search-recipies" id="search-recipies" placeholder="What are you hungry for?" tabindex="2" />
-                                <button class="btn">Search</button>
-                            </form>
+                        <div class="ribbon-wrap">
+                            <div class="search-bar clearfix">
+                                <div class="hdg-block">
+                                    <h3 class="hdg hdg-3-alt2 hdg-caps txt-rev">Search Recipies</h3>
+                                    <a class="link-more-alt txt-rev" href="#">Browse All Recipies<i class="icon icon-more-arrow-rev"></i></a>
+                                </div>
+                                <form class="form-search-recipies">
+                                    <input class="input-text" type="text" name="search-recipies" id="search-recipies" placeholder="What are you hungry for?" tabindex="2" />
+                                    <button class="btn">Search</button>
+                                </form>
 
-                            <a class="btn btn-icon" href="#"><i class="icon btn-icon-feed"></i>Feed Me</a>
-                            <a class="btn btn-icon" href="#"><i class="icon btn-icon-recipe"></i>My Recipie Box</a>
+                                <a class="btn btn-icon" href="#"><i class="icon btn-icon-feed"></i>Feed Me</a>
+                                <a class="btn btn-icon" href="#"><i class="icon btn-icon-recipe"></i>My Recipie Box</a>
 
-                            <div class="help">
-                                <p class="san-serif-alt tips">Ideas: easy lasagna, baked fries, easy desserts, ribs</p>
-                                <p class="login">Please <a href="#">login</a> to use these services.</p>
+                                <div class="help">
+                                    <p class="san-serif-alt tips">Ideas: easy lasagna, baked fries, easy desserts, ribs</p>
+                                    <p class="login">Please <a href="#">login</a> to use these services.</p>
+                                </div>
                             </div>
                         </div>
                     </div>
 
                     <div class="grid-row">
-                        <div class="grid-col grid-col-4 grid-push-8">
+                        <div class="grid-col grid-col-8">&nbsp;</div>
+                        <div class="grid-col grid-col-4">
                             <div class="grid-row">
                                 <div class="grid-col grid-col-12">
                                     <div class="ad-wrap ad-feat">

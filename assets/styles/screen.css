@@ -118,7 +118,7 @@ textarea {
  Grid Styles
 ------------------------------------------------------------------------ */
 .grid-row {
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .grid-col {
@@ -394,6 +394,17 @@ input[type=text] {
     margin: 0 0 0 15px;
 }
 
+/* Media Featured */
+.media-feat {
+    margin-bottom: 0;
+}
+
+.media-feat .media-bd {
+    font-size: 14px;
+    line-height: 1.4;
+    padding-top: 25px;
+}
+
 /* ---------------------------------------------------------------------
  Panel Styles
 ------------------------------------------------------------------------ */
@@ -427,7 +438,13 @@ input[type=text] {
     font-weight: bold;
 }
 
-.hdg-2-feat { font-size: 60px; }
+.hdg-2-feat {
+    font-size: 60px;
+    letter-spacing: -3px;
+    line-height: 1;
+    padding-top: 12px;g
+}
+
 .hdg-2 { font-size: 14px; }
 
 .hdg-3-feat { font-size: 22px; }
@@ -827,7 +844,7 @@ input[type=text] + .btn {
 .ribbon {
     background: #4b4a48;
     margin: 0 -45px 35px;
-    padding: 15px 43px 12px;
+    padding: 0 15px;
     border-left: 2px solid rgba(255,255,255,.1);
     border-right: 2px solid rgba(255,255,255,.1);
     position: relative;
@@ -853,6 +870,31 @@ input[type=text] + .btn {
     height: 0;
     border-bottom: 8px solid #000000;
     border-right: 15px solid transparent;
+}
+
+.ribbon-wrap {
+    padding: 15px 28px 12px;
+    position: relative;
+}
+
+.ribbon-wrap:before {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 19px;
+    top: -19px;
+    left: 0;
+    background: url(../images/bg-ribbon-shadow.png) repeat-x 0 0;
+}
+
+.ribbon-wrap:after {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 19px;
+    bottom: -19px;
+    left: 0;
+    background: url(../images/bg-ribbon-shadow.png) repeat-x 0 -19px;
 }
 
 .form-newsletter input[type=text] { width: 154px; }
@@ -892,6 +934,8 @@ input[type=text] + .btn {
 /* ---------------------------------------------------------------------
  Advertisement Styles
 ------------------------------------------------------------------------ */
+.ad-wrap { margin-bottom: 4px; }
+
 .ad-wrap img + img {
     margin-top: 10px;
 }

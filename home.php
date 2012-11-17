@@ -49,17 +49,20 @@
     <div class="wrapper">
         <div class="content section clearfix" role="main">
             <div class="wrapper-inner clearfix">
-                <div class="grid-row">
-                    <div class="grid-col grid-col-12">
-                        <div class="ad-wrap ad-banner">
-                            <img src="assets/images/ad-banner.jpg" alt="Experience KitchenAid Quality on the Countertop" />
-                        </div>
-                    </div>
+                <div class="ad-wrap ad-banner">
+                    <img src="assets/images/ad-banner.jpg" alt="Experience KitchenAid Quality on the Countertop" />
                 </div>
 
                 <div class="grid-row">
                     <div class="grid-col grid-col-12">
-                        <h2 class="hdg hdg-2-feat">Recipes</h2>
+                        <div class="media media-nowrap media-feat">
+                            <div class="media-elem">
+                                <h2 class="hdg hdg-2-feat">Recipes</h2>
+                            </div>
+                            <div class="media-bd">
+                                <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec posuere lacus. Proin ut erat diam. Cras interdum dignissim quam a ullamcorper. Nullam ac sapien sit amet elit congue. Lorem ipsum dolor.</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
@@ -105,22 +108,24 @@
                 </div>
 
                 <div class="ribbon">
-                    <div class="search-bar clearfix">
-                        <div class="hdg-block">
-                            <h3 class="hdg hdg-3-alt2 hdg-caps txt-rev">Search Recipies</h3>
-                            <a class="link-more-alt txt-rev" href="#">Browse All Recipies<i class="icon icon-more-arrow-rev"></i></a>
-                        </div>
-                        <form class="form-search-recipies">
-                            <input class="input-text" type="text" name="search-recipies" id="search-recipies" placeholder="What are you hungry for?" tabindex="2" />
-                            <button class="btn">Search</button>
-                        </form>
+                    <div class="ribbon-wrap">
+                        <div class="search-bar clearfix">
+                            <div class="hdg-block">
+                                <h3 class="hdg hdg-3-alt2 hdg-caps txt-rev">Search Recipies</h3>
+                                <a class="link-more-alt txt-rev" href="#">Browse All Recipies<i class="icon icon-more-arrow-rev"></i></a>
+                            </div>
+                            <form class="form-search-recipies">
+                                <input class="input-text" type="text" name="search-recipies" id="search-recipies" placeholder="What are you hungry for?" tabindex="2" />
+                                <button class="btn">Search</button>
+                            </form>
 
-                        <a class="btn btn-icon" href="#"><i class="icon btn-icon-feed"></i>Feed Me</a>
-                        <a class="btn btn-icon" href="#"><i class="icon btn-icon-recipe"></i>My Recipie Box</a>
+                            <a class="btn btn-icon" href="#"><i class="icon btn-icon-feed"></i>Feed Me</a>
+                            <a class="btn btn-icon" href="#"><i class="icon btn-icon-recipe"></i>My Recipie Box</a>
 
-                        <div class="help">
-                            <p class="san-serif-alt tips">Ideas: easy lasagna, baked fries, easy desserts, ribs</p>
-                            <p class="login">Please <a href="#">login</a> to use these services.</p>
+                            <div class="help">
+                                <p class="san-serif-alt tips">Ideas: easy lasagna, baked fries, easy desserts, ribs</p>
+                                <p class="login">Please <a href="#">login</a> to use these services.</p>
+                            </div>
                         </div>
                     </div>
                 </div><!--/.ribbon-->
