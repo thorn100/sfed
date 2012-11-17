@@ -1,26 +1,16 @@
 /** REVISIT **/
-.header,
-.header a { color: #ffffff; }
-
 .grid-col + .grid-col { margin-left: 2.6%; }
 
-.hdg-3-alt2 { font-size: 12px; }
-
-p + p { padding-top: 10px; }
-
 better way of implementing sticky footer?
-
-class name "hdg-w-link"
 
 another way to layout the community & poll?
   - equal columns?
 
-
 /** TODO **/
 Convert images to sprites
 Icon hover states
-re-position the ad & newsletter column (including spacing underneath between it and search-bar)
 
 /** NOTES **/
 Consolidating all section headings (Featured, Search, Recent, Categories, Community, Store, Featured Category Articles) to 14px. In the comp all sections use this but Search which uses 12px.
 Consolidating h3 heading styles. Comp uses four different sizes (18, 16, 14, 12). Deciding to eliminate 18px size.
+	- created new class "hdg-3-alt3" for 18px size.
