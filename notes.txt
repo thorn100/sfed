@@ -8,15 +8,17 @@
 
 p + p { padding-top: 10px; }
 
-Newsletter panel width
-
 better way of implementing sticky footer?
+
+class name "hdg-w-link"
+
+another way to layout the community & poll?
+  - equal columns?
 
 
 /** TODO **/
 Convert images to sprites
 Icon hover states
-Figure out a way to clear search bar. clearfix:after and ribbon:after are both being used and conflict with each other.
 
 /** NOTES **/
 Consolidating all section headings (Featured, Search, Recent, Categories, Community, Store, Featured Category Articles) to 14px. In the comp all sections use this but Search which uses 12px.

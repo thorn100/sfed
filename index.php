@@ -467,6 +467,58 @@
                                 <h2 class="hdg hdg-2 hdg-caps">Relish Community</h2>
                                 <a href="#">Browse All Community Offerings<i class="icon icon-more-arrow-dk"></i></a>
                             </div>
+
+                            <div class="grid-col grid-col-7">
+                                <div class="blocks blocks-1up">
+                                    <div>
+                                        <div class="block-bd">
+                                            <h3 class="hdg hdg-3"><i class="icon icon-community"></i>Welcome to the Community</h3>
+                                            <p>Whether it’s your grandmother’s cookie recipe or the mac and cheese you baked for the office potluck, when you prepare food and share it with others, you’re saying something special. So welcome to Relish. Join the conversation.</p>
+                                        </div>
+                                        <div class="block-img">
+                                            <div class="ad-wrap">
+                                                <img src="assets/images/ad-supper-club.png" alt="Supper Club - Join the discussion around the table." />
+                                                <img src="assets/images/ad-bake-forward.png" alt="Bake it forward. - Random acts of everyday deliciousness." />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grid-col grid-col-5">
+                                <div class="column-sep">
+                                    <h3 class="hdg hdg-3"><i class="icon icon-poll"></i>Community Poll</h3>
+                                    <p>How ofter do you cook at home?</p>
+                                    <form class="poll">
+                                        <ol class="poll-list">
+                                            <li>
+                                                <input type="radio" name="community-poll" id="poll-choice-1" tabindex="1" value="1-2 Times a week" />
+                                                <label for="poll-choice-1">1-2 Times a week</label>
+                                            </li>
+                                            <li>
+                                                <input type="radio" name="community-poll" id="poll-choice-2" tabindex="2" value="2-4 Times a week" />
+                                                <label for="poll-choice-2">2-4 Times a week</label>
+                                            </li>   
+                                            <li>
+                                                <input type="radio" name="community-poll" id="poll-choice-3" tabindex="3" value="4-6 Times a week" />
+                                                <label for="poll-choice-3">4-6 Times a week</label>
+                                            </li>   
+                                            <li>
+                                                <input type="radio" name="community-poll" id="poll-choice-4" tabindex="4" value="6-8 Times a week" />
+                                                <label for="poll-choice-4">6-8 Times a week</label>
+                                            </li>   
+                                            <li>
+                                                <input type="radio" name="community-poll" id="poll-choice-5" tabindex="5" value="8-10 Times a week" />
+                                                <label for="poll-choice-5">8-10 Times a week</label>
+                                            </li>   
+                                            <li>
+                                                <input type="radio" name="community-poll" id="poll-choice-6" tabindex="6" value="10+ Times a week" />
+                                                <label for="poll-choice-6">10+ Times a week</label>
+                                            </li>   
+                                        </ol>
+                                        <button class="btn btn-submit">Submit</button>
+                                    </form>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

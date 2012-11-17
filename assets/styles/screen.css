@@ -167,6 +167,7 @@ textarea {
 .blocks-1up > * {
     width: 96%;
     margin-right: 4%;
+    margin-bottom: 0;
 }
 
 .blocks-2up { margin-left: -6.5%; }
@@ -192,6 +193,10 @@ textarea {
 
 .block-img + .block-bd {
     margin-top: 2px;
+}
+
+.block-bd + .block-img {
+    margin-top: 18px;
 }
 
 /* Block Featured */
@@ -393,7 +398,7 @@ input[type=text] {
  Panel Styles
 ------------------------------------------------------------------------ */
 .panel {
-    padding: 14px 19px 1g7px;
+    padding: 14px 19px 17px;
     border: 1px solid #dcdbdb;
     background: #f2f2f2;
 }
@@ -426,7 +431,12 @@ input[type=text] {
 .hdg-2 { font-size: 14px; }
 
 .hdg-3-feat { font-size: 22px; }
-.hdg-3 { font-size: 16px; }
+
+.hdg-3 {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
 .hdg-3-alt { font-size: 14px; }
 .hdg-3-alt2 { font-size: 12px; }
 
@@ -717,6 +727,8 @@ input[type=text] + .btn {
     width: 24px;
     height: 11px;
     float: left;
+    margin-top: 4px;
+    margin-right: 6px;
 }
 
 .icon-poll {
@@ -724,6 +736,8 @@ input[type=text] + .btn {
     width: 16px;
     height: 12px;
     float: left;
+    margin-top: 3px;
+    margin-right: 7px;
 }
 
 /* ---------------------------------------------------------------------
@@ -861,6 +875,9 @@ input[type=text] + .btn {
     border-left: 1px solid rgba(169,169,169,.3);
     float: left;
     padding-left: 24px;
+}
+
+.column-wrap .column-sep {
     width: 41%;
     /* For equal column height */
     margin-bottom: -99999px;
@@ -874,8 +891,8 @@ input[type=text] + .btn {
 /* ---------------------------------------------------------------------
  Advertisement Styles
 ------------------------------------------------------------------------ */
-.ad-wrap img {
-
+.ad-wrap img + img {
+    margin-top: 10px;
 }
 
 .ad-banner img { 
@@ -885,6 +902,18 @@ input[type=text] + .btn {
 
 .ad-feat img {
     max-width: 300px;
+}
+
+/* ---------------------------------------------------------------------
+ Poll Styles
+------------------------------------------------------------------------ */
+.poll {
+    line-height: 2.4;
+    margin-bottom: 17px;
+}
+
+.poll-list {
+    margin: 10px 0;
 }
 
 /* ---------------------------------------------------------------------
