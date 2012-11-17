@@ -437,8 +437,8 @@ input[type=text] {
 
 .hdg-caps { text-transform: uppercase; }
 
-p { padding-bottom: 10px; }
-
+/*p + p { padding-top: 10px; }
+*/
 .txt-rev,
 .txt-rev a { color: #ffffff; }
 .txt-ital { font-style: italic; }
@@ -693,12 +693,14 @@ input[type=text] + .btn {
     background-position: -158px 0;
     width: 24px;
     height: 11px;
+    float: left;
 }
 
 .icon-poll {
     background-position: -182px 0;
     width: 16px;
     height: 12px;
+    float: left;
 }
 
 /* ---------------------------------------------------------------------
@@ -787,7 +789,7 @@ input[type=text] + .btn {
 .ribbon {
     background: #4b4a48;
     margin: 0 -45px 35px;
-    padding: 15px 43px;
+    padding: 15px 43px 12px;
     border-left: 2px solid rgba(255,255,255,.1);
     border-right: 2px solid rgba(255,255,255,.1);
     position: relative;
@@ -859,6 +861,7 @@ input[type=text] + .btn {
     clear: both;
     float: left;
     margin-right: 23px;
+    margin-bottom: 6px;
 }
 
 .form-search-recipies .input-text { width: 428px; }
@@ -881,9 +884,11 @@ input[type=text] + .btn {
     font-size: 12px;
     float: left;
 }
+
 .login {
     font-size: 11px;
     float: right;
+    padding-top: 3px;
 }
 
 .login a {

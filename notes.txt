@@ -6,6 +6,8 @@
 
 .hdg-3-alt2 { font-size: 12px; }
 
+p + p { padding-top: 10px; }
+
 Newsletter panel width
 
 
