@@ -159,6 +159,8 @@ textarea {
 /* ---------------------------------------------------------------------
  Blocks
 ------------------------------------------------------------------------ */
+.blocks { margin-bottom: 20px; }
+
 .blocks > * {
     float: left;
     margin-bottom: 20px;
@@ -284,7 +286,8 @@ a:focus { text-decoration: underline; }
 
 .sep-bottom {
     border-bottom: 1px solid rgba(104,104,104,.2);
-    margin-bottom: 7px;
+    padding-bottom: 7px;
+    margin-bottom: 5px;
 }
 
 .article-cat {
@@ -442,7 +445,7 @@ input[type=text] {
     font-size: 60px;
     letter-spacing: -3px;
     line-height: 1;
-    padding-top: 12px;g
+    padding-top: 12px;
 }
 
 .hdg-2 { font-size: 14px; }
@@ -464,13 +467,29 @@ input[type=text] {
 
 .hdg-caps { text-transform: uppercase; }
 
-/*p + p { padding-top: 10px; }
-*/
+/*p + p { padding-top: 10px; }*/
+
 .txt-rev,
 .txt-rev a { color: #ffffff; }
 .txt-ital { font-style: italic; }
 
-/* Block Headings & Separators*/
+/* Block Headings */
+.hdg-block {
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+
+.hdg-block-secondary {
+    padding: 4px 10px 1px;
+    background: #f9d373;
+}
+
+.hdg-block-tertiary {
+    padding: 4px 10px 2px;
+    background: rgba(90,69,221,.15);
+}
+
+/* Block Separators*/
 .hdg-sep-feat {
     padding-bottom: 1px;
     border-bottom: 2px solid rgba(221,69,72,.9);
@@ -483,25 +502,10 @@ input[type=text] {
     margin-bottom: 8px;
 }
 
-[class*=hdg-block] {
-    overflow: hidden;
-    margin-bottom: 20px;
-}
-
-.hdg-block-secondary {
-    padding: 4px 10px 1px;
-    background: #f9d373;
-}
-
 .hdg-sep-secondary {
     padding-bottom: 1px;
     border-bottom: 2px solid #f9d373;
     margin-bottom: 8px;
-}
-
-.hdg-block-tertiary {
-    padding: 4px 10px 2px;
-    background: rgba(90,69,221,.15);
 }
 
 .hdg-sep-tertiary {

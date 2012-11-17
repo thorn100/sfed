@@ -60,7 +60,7 @@
                                 <h2 class="hdg hdg-2-feat">Recipes</h2>
                             </div>
                             <div class="media-bd">
-                                <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec posuere lacus. Proin ut erat diam. Cras interdum dignissim quam a ullamcorper. Nullam ac sapien sit amet elit congue. Lorem ipsum dolor.</p>
+                                <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec posuere lacus. Proin ut erat diam. Cras interdum dignissim quam a ullamcorper. Nullam ac sapien sit amet elit congue. Lorem ipsum dolor.</p>
                             </div>
                         </div>
                     </div>
@@ -132,6 +132,10 @@
 
                 <div class="grid-row">
                     <div class="grid-col grid-col-6">
+                        <div class="hdg-block">
+                            <h2 class="hdg hdg-2 hdg-caps">Most Recent</h2>
+                            <a href="#">Browse All Content<i class="icon icon-more-arrow-dk"></i></a>
+                        </div>
                         <ol class="blocks blocks-2up">
                             <li>
                                 <div class="block-img">
@@ -154,17 +158,17 @@
                             <li>
                                 <div class="block-img">
                                     <div class="img-wrap">
-                                        <img src="assets/images/img-desserts.jpg" alt="Perfect Desserts" />
+                                        <img src="assets/images/img-lobster.jpg" alt="Lobster Tails" />
                                     </div>
                                 </div>
                                 <div class="block-bd">
                                     <h3 class="hdg hdg-3 hdg-sep-primary">
-                                        Perfect Desserts
+                                        Lobster Tails
                                         <span class="comment-count">
                                             <a href="#"><i class="icon icon-comment"></i>9</a>
                                         </span>
                                     </h3>
-                                    <p class="block-copy sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
+                                    <p class="block-copy sep-bottom">Butternut Squash Filled with Spinach and Ricotta At last – butternut that’s worthy of a company dinner but&#8230;</p>
                                     <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                     <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                 </div>
@@ -172,36 +176,36 @@
                             <li>
                                 <div class="block-img">
                                     <div class="img-wrap">
-                                        <img src="assets/images/img-desserts.jpg" alt="Perfect Desserts" />
+                                        <img src="assets/images/img-stew.jpg" alt="Italian Fisherman Stew" />
                                     </div>
                                 </div>
                                 <div class="block-bd">
                                     <h3 class="hdg hdg-3 hdg-sep-primary">
-                                        Perfect Desserts
+                                        Italian Fisherman Stew
                                         <span class="comment-count">
                                             <a href="#"><i class="icon icon-comment"></i>9</a>
                                         </span>
                                     </h3>
-                                    <p class="block-copy sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
-                                    <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                    <p class="block-copy sep-bottom">When we need easy-to-make recipes with a sense of style and flavor. Italian fisherman brought this recipe along&#8230;</p>
+                                    <span class="article-cat serif">Other Stories<i class="icon icon-cat-arrow"></i></span>
                                     <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                 </div>
                             </li>
                             <li>
                                 <div class="block-img">
                                     <div class="img-wrap">
-                                        <img src="assets/images/img-desserts.jpg" alt="Perfect Desserts" />
+                                        <img src="assets/images/img-cookies.jpg" alt="Christmas Cookies" />
                                     </div>
                                 </div>
                                 <div class="block-bd">
                                     <h3 class="hdg hdg-3 hdg-sep-primary">
-                                        Perfect Desserts
+                                        Christmas Cookies
                                         <span class="comment-count">
                                             <a href="#"><i class="icon icon-comment"></i>9</a>
                                         </span>
                                     </h3>
-                                    <p class="block-copy sep-bottom">Teresa suggests handing your lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
-                                    <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                    <p class="block-copy sep-bottom">Trays of all sizes and shapes come in handy in the kitchen. I create my own with recycled wooden picture&#8230;</p>
+                                    <span class="article-cat serif">Other Stories<i class="icon icon-cat-arrow"></i></span>
                                     <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                 </div>
                             </li>
@@ -271,6 +275,39 @@
                                         <li><a href="#">Cake<span class="entry-count">18 Entries</span></a></li>
                                         <li><a href="#">Candy<span class="entry-count">42 Entries</span></a></li>
                                         <li><a href="#">Condiment<span class="entry-count">20 Entries</span></a></li>
+                                        <li><a href="#">Cookie/Bar<span class="entry-count">9 Entries</span></a></li>
+                                        <li><a href="#">Drink<span class="entry-count">28 Entries</span></a></li>
+                                        <li><a href="#">Ice Cream<span class="entry-count">19 Entries</span></a></li>
+                                        <li><a href="#">Main Course<span class="entry-count">30 Entries</span></a></li>
+                                        <li><a href="#">Marinade<span class="entry-count">3 Entries</span></a></li>
+                                        <li><a href="#">Pasta<span class="entry-count">2 Entries</span></a></li>
+                                        <li><a href="#">Rice<span class="entry-count">3 Entries</span></a></li>
+                                        <li><a href="#">Pie/Tart<span class="entry-count">7 Entries</span></a></li>
+                                        <li><a href="#">Pudding<span class="entry-count">14 Entries</span></a></li>
+                                        <li><a href="#">Salad<span class="entry-count">18 Entries</span></a></li>
+                                        <li><a href="#">Sandwich<span class="entry-count">42 Entries</span></a></li>
+                                        <li><a href="#">Sauce<span class="entry-count">28 Entries</span></a></li>
+                                        <li><a href="#">Seasoning/Spice<span class="entry-count">19 Entries</span></a></li>
+                                        <li><a href="#">Side Dish<span class="entry-count">9 Entries</span></a></li>
+                                        <li><a href="#">Soup<span class="entry-count">48 Entries</span></a></li>
+                                    </ol>
+                                </div>
+                                <div class="list-wrap">
+                                    <h3 class="hdg hdg-3-alt2 hdg-caps block-copy sep-bottom">Articles By Ingredient</h3>
+                                    <ol class="cat-list">
+                                        <li><a href="#">Beef<span class="entry-count">4 Entries</span></a></li>
+                                        <li><a href="#">Cheese<span class="entry-count">6 Entries</span></a></li>
+                                        <li><a href="#">Dairy<span class="entry-count">14 Entries</span></a></li>
+                                        <li><a href="#">Chocolate<span class="entry-count">18 Entries</span></a></li>
+                                        <li><a href="#">Fish<span class="entry-count">42 Entries</span></a></li>
+                                        <li><a href="#">Fruit<span class="entry-count">20 Entries</span></a></li>
+                                        <li><a href="#">Grain<span class="entry-count">9 Entries</span></a></li>
+                                        <li><a href="#">Lamb<span class="entry-count">28 Entries</span></a></li>
+                                        <li><a href="#">Pasta/Rice<span class="entry-count">19 Entries</span></a></li>
+                                        <li><a href="#">Pork<span class="entry-count">30 Entries</span></a></li>
+                                        <li><a href="#">Poultry<span class="entry-count">3 Entries</span></a></li>
+                                        <li><a href="#">Seafood<span class="entry-count">2 Entries</span></a></li>
+                                        <li><a href="#">Vegetable<span class="entry-count">3 Entries</span></a></li>
                                     </ol>
                                 </div>
                             </div> 
@@ -296,6 +333,31 @@
                                         <li><a href="#">Tailgating<span class="entry-count">4 Entries</span></a></li>
                                     </ol>
                                 </div>
+                                <div class="list-wrap">
+                                    <h3 class="hdg hdg-3-alt2 hdg-caps block-copy sep-bottom">Articles By Seasonal</h3>
+                                    <ol class="cat-list">
+                                        <li><a href="#">Spring<span class="entry-count">4 Entries</span></a></li>
+                                        <li><a href="#">Summer<span class="entry-count">6 Entries</span></a></li>
+                                        <li><a href="#">Fall<span class="entry-count">14 Entries</span></a></li>
+                                        <li><a href="#">Winter<span class="entry-count">18 Entries</span></a></li>
+                                    </ol>
+                                </div>
+                                <div class="list-wrap">
+                                    <h3 class="hdg hdg-3-alt2 hdg-caps block-copy sep-bottom">Articles By Misc</h3>
+                                    <ol class="cat-list">
+                                        <li><a href="#">Freezable<span class="entry-count">4 Entries</span></a></li>
+                                        <li><a href="#">Gifts<span class="entry-count">6 Entries</span></a></li>
+                                        <li><a href="#">Healthy<span class="entry-count">14 Entries</span></a></li>
+                                        <li><a href="#">Kid-friendly<span class="entry-count">18 Entries</span></a></li>
+                                        <li><a href="#">Make-ahead<span class="entry-count">42 Entries</span></a></li>
+                                        <li><a href="#">No-cook<span class="entry-count">20 Entries</span></a></li>
+                                        <li><a href="#">Quick & Easy<span class="entry-count">9 Entries</span></a></li>
+                                        <li><a href="#">Classic/Traditional<span class="entry-count">28 Entries</span></a></li>
+                                        <li><a href="#">One-dish<span class="entry-count">19 Entries</span></a></li>
+                                        <li><a href="#">Slow-cooker<span class="entry-count">30 Entries</span></a></li>
+                                        <li><a href="#">Rustic<span class="entry-count">21 Entries</span></a></li>
+                                    </ol>
+                                </div>
                             </div>
                         </div>
                     </div><!--/.grid-col-6-->
@@ -303,7 +365,7 @@
 
                 <div class="grid-row">
                     <div class="grid-col grid-col-8">
-                        <div class="hdg-block-secondary">
+                        <div class="hdg-block hdg-block-secondary">
                             <h2 class="hdg hdg-2 hdg-caps">Relish Community</h2>
                             <a href="#">Browse All Community Offerings<i class="icon icon-more-arrow-dk"></i></a>
                         </div>
@@ -361,7 +423,7 @@
                         </div>
                     </div>
                     <div class="grid-col grid-col-4 grid-col-last">
-                        <div class="hdg-block-secondary">
+                        <div class="hdg-block hdg-block-secondary">
                             <h2 class="hdg hdg-2 hdg-caps">Store</h2>
                         </div>
                         <div class="media media-nowrap">
@@ -395,7 +457,7 @@
 
                 <div class="grid-row">
                     <div class="grid-col grid-col-4">
-                        <div class="hdg-block-tertiary">
+                        <div class="hdg-block hdg-block-tertiary">
                             <h2 class="hdg hdg-2 hdg-caps">Health</h2>
                         </div>
                         <div class="media media-nowrap">
@@ -427,7 +489,7 @@
                     </div>
 
                     <div class="grid-col grid-col-4">
-                        <div class="hdg-block-tertiary">
+                        <div class="hdg-block hdg-block-tertiary">
                             <h2 class="hdg hdg-2 hdg-caps">Heroes</h2>
                         </div>
                         <div class="media media-nowrap">
@@ -459,7 +521,7 @@
                     </div>
 
                     <div class="grid-col grid-col-4 grid-col-last">
-                        <div class="hdg-block-tertiary">
+                        <div class="hdg-block hdg-block-tertiary">
                             <h2 class="hdg hdg-2 hdg-caps">Partners</h2>
                         </div>
                         <div class="media media-nowrap">

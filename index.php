@@ -64,12 +64,12 @@
 
                     <div class="grid-row">
                         <div class="grid-col grid-col-8">
-                            <div class="hdg-block-secondary">
+                            <div class="hdg-block hdg-block-secondary">
                                 <h2 class="hdg hdg-2 hdg-caps">Relish Community</h2>
                             </div>
                         </div>
                         <div class="grid-col grid-col-4 grid-col-last">
-                            <div class="hdg-block-secondary">
+                            <div class="hdg-block hdg-block-secondary">
                                 <h2 class="hdg hdg-2 hdg-caps">Store</h2>
                             </div>
                         </div>
@@ -77,17 +77,17 @@
 
                     <div class="grid-row">
                         <div class="grid-col grid-col-4">
-                            <div class="hdg-block-tertiary">
+                            <div class="hdg-block hdg-block-tertiary">
                                 <h2 class="hdg hdg-2 hdg-caps">Health</h2>
                             </div>
                         </div>
                         <div class="grid-col grid-col-4">
-                            <div class="hdg-block-tertiary">
+                            <div class="hdg-block hdg-block-tertiary">
                                 <h2 class="hdg hdg-2 hdg-caps">Heroes</h2>
                             </div>
                         </div>
                         <div class="grid-col grid-col-4 grid-col-last">
-                            <div class="hdg-block-tertiary">
+                            <div class="hdg-block hdg-block-tertiary">
                                 <h2 class="hdg hdg-2 hdg-caps">Partners</h2>
                             </div>
                         </div>
@@ -422,7 +422,7 @@
                     <div class="ribbon">
                         <div class="ribbon-wrap">
                             <div class="search-bar clearfix">
-                                <div class="hdg-block">
+                                <div class="hdg-block hdg-block">
                                     <h3 class="hdg hdg-3-alt2 hdg-caps txt-rev">Search Recipies</h3>
                                     <a class="link-more-alt txt-rev" href="#">Browse All Recipies<i class="icon icon-more-arrow-rev"></i></a>
                                 </div>
@@ -472,7 +472,7 @@
 
                     <div class="grid-row">
                         <div class="grid-col grid-col-8">
-                            <div class="hdg-block-secondary">
+                            <div class="hdg-block hdg-block-secondary">
                                 <h2 class="hdg hdg-2 hdg-caps">Relish Community</h2>
                                 <a href="#">Browse All Community Offerings<i class="icon icon-more-arrow-dk"></i></a>
                             </div>

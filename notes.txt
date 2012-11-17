@@ -19,7 +19,7 @@ another way to layout the community & poll?
 /** TODO **/
 Convert images to sprites
 Icon hover states
-re-position the ad & newsletter column
+re-position the ad & newsletter column (including spacing underneath between it and search-bar)
 
 /** NOTES **/
 Consolidating all section headings (Featured, Search, Recent, Categories, Community, Store, Featured Category Articles) to 14px. In the comp all sections use this but Search which uses 12px.
