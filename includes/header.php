@@ -1,5 +1,5 @@
 <div class="header section txt-rev" role="banner">
-	<div class="wrapper-inner">
+	<div class="wrapper-inner clearfix">
     	<h1 class="brand"><a href="#"><img src="assets/images/logo-relish.png" alt="Relish Logo" /></a></h1>
     	<div class="toolbox">
     		<ul class="h-list h-list-piped">
