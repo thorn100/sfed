@@ -68,22 +68,32 @@
 
                     <div class="grid-row">
                         <div class="grid-col grid-col-8">
-                            <h2 class="hdg hdg-2 hdg-caps hdg-block-secondary">Relish Community</h2>
+                            <div class="hdg-block-secondary">
+                                <h2 class="hdg hdg-2 hdg-caps">Relish Community</h2>
+                            </div>
                         </div>
                         <div class="grid-col grid-col-4 grid-col-last">
-                            <h2 class="hdg hdg-2 hdg-caps hdg-block-secondary">Store</h2>
+                            <div class="hdg-block-secondary">
+                                <h2 class="hdg hdg-2 hdg-caps">Store</h2>
+                            </div>
                         </div>
                     </div>
 
                     <div class="grid-row">
                         <div class="grid-col grid-col-4">
-                            <h2 class="hdg hdg-2 hdg-caps hdg-block-tertiary">Health</h2>
+                            <div class="hdg-block-tertiary">
+                                <h2 class="hdg hdg-2 hdg-caps">Health</h2>
+                            </div>
                         </div>
                         <div class="grid-col grid-col-4">
-                            <h2 class="hdg hdg-2 hdg-caps hdg-block-tertiary">Heroes</h2>
+                            <div class="hdg-block-tertiary">
+                                <h2 class="hdg hdg-2 hdg-caps">Heroes</h2>
+                            </div>
                         </div>
                         <div class="grid-col grid-col-4 grid-col-last">
-                            <h2 class="hdg hdg-2 hdg-caps hdg-block-tertiary">Partners</h2>
+                            <div class="hdg-block-tertiary">
+                                <h2 class="hdg hdg-2 hdg-caps">Partners</h2>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -405,8 +415,10 @@
 
                     <div class="ribbon">
                         <div class="search-bar clearfix">
-                            <h3 class="hdg hdg-3-alt2 hdg-caps txt-rev">Search Recipies</h3>
-                            <a class="link-more-alt txt-rev" href="#">Browse All Recipies<i class="icon icon-more-arrow-rev"></i></a>
+                            <div class="hdg-block">
+                                <h3 class="hdg hdg-3-alt2 hdg-caps txt-rev">Search Recipies</h3>
+                                <a class="link-more-alt txt-rev" href="#">Browse All Recipies<i class="icon icon-more-arrow-rev"></i></a>
+                            </div>
                             <form class="form-search-recipies">
                                 <input class="input-text" type="text" name="search-recipies" id="search-recipies" placeholder="What are you hungry for?" tabindex="2" />
                                 <button class="btn">Search</button>
@@ -445,6 +457,15 @@
                         <div class="grid-col grid-col-12">
                             <div class="ad-wrap ad-banner">
                                 <img src="assets/images/ad-banner.jpg" alt="Experience KitchenAid Quality on the Countertop" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="grid-row">
+                        <div class="grid-col grid-col-8">
+                            <div class="hdg-block-secondary">
+                                <h2 class="hdg hdg-2 hdg-caps">Relish Community</h2>
+                                <a href="#">Browse All Community Offerings<i class="icon icon-more-arrow-dk"></i></a>
                             </div>
                         </div>
                     </div>
