@@ -424,12 +424,27 @@
 
                     <div class="grid-row">
                         <div class="grid-col grid-col-4 grid-push-8">
+                            <div class="grid-row">
+                                <div class="grid-col grid-col-12">
+                                    <div class="ad-wrap ad-feat">
+                                        <a href="#"><img src="assets/images/ad-win-trip.jpg" alt="You could win a trip to the Napa Valley Finals" /></a>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="panel panel-newsletter">
                                 <div class="panel-hdg"><i class="icon icon-email"></i> Sign up for the Relish Newsletter</div>
                                 <form class="form-newsletter">
                                     <input class="input-text" type="text" name="email-newsletter" id="email-newsletter" placeholder="Your Email Address" tabindex="2" />
                                     <button class="btn">Send It</button>
                                 </form>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="grid-row">
+                        <div class="grid-col grid-col-12">
+                            <div class="ad-wrap ad-banner">
+                                <img src="assets/images/ad-banner.jpg" alt="Experience KitchenAid Quality on the Countertop" />
                             </div>
                         </div>
                     </div>

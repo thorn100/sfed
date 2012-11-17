@@ -10,6 +10,8 @@ p + p { padding-top: 10px; }
 
 Newsletter panel width
 
+better way of implementing sticky footer?
+
 
 /** TODO **/
 Convert images to sprites

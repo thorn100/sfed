@@ -393,13 +393,13 @@ input[type=text] {
  Panel Styles
 ------------------------------------------------------------------------ */
 .panel {
-    padding: 14px 19px 7px;
+    padding: 14px 19px 17px;
     border: 1px solid #dcdbdb;
     background: #f2f2f2;
 }
 
 /* Newsletter Sign Up */
-.panel-newsletter { width: 93%; }
+.panel-newsletter { width: 260px; }
 
 .panel-hdg {
     font-size: 13px;
@@ -846,6 +846,22 @@ input[type=text] + .btn {
 
 .column-sep + .column-sep {
     margin-left: 24px;
+}
+
+/* ---------------------------------------------------------------------
+ Advertisement Styles
+------------------------------------------------------------------------ */
+.ad-wrap img {
+
+}
+
+.ad-banner img { 
+    max-width: 925px;
+    margin-left: -13px;
+}
+
+.ad-feat img {
+    max-width: 300px;
 }
 
 /* ---------------------------------------------------------------------
