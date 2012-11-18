@@ -325,10 +325,12 @@ input[type=text] {
     -o-box-shadow: inset 2px 2px 2px -1px rgba(0,0,0,.3);
     box-shadow: inset 2px 2px 2px -1px rgba(0,0,0,.3);
     margin: 0;
+    line-height: normal !important;
 }
 
 .input-text {
     padding: 8px 10px;
+    height: 19px;
     font-size: 15px;
     font-weight: bold;
     border: 1px solid #bfbfbf;
@@ -613,6 +615,7 @@ input[type=text] + .btn {
     height: 37px;
     line-height: 11px;
     margin-left: -1px;
+    margin-right: 0;
     color: #444444;
 }
 
