@@ -204,6 +204,10 @@ textarea {
 /* Block Featured */
 .block-feat .block-copy { line-height: 1.7; }
 
+.block-copy {
+    letter-spacing: normal;
+}
+
 .block-copy > .link-more {
     float: none;
     margin-left: 5px;
