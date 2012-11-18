@@ -257,7 +257,7 @@ body {
 
 img { max-width: 100% }
 
-input[type='submit'], input[type='image'], label[for], select, button { cursor: pointer; }
+input[type='submit'], input[type='image'], label[for], select, button, a > * { cursor: pointer; }
 
 a {
     color: #4e4e4e;
@@ -845,10 +845,6 @@ input[type=text] + .btn {
 }
 
 .nav-main > li + li { margin-left: 25px; }
-
-.nav-home { text-indent: -9999px; }
-.nav-home a { background: url(../images/icon-home.png) no-repeat; }
-
 
 /* ---------------------------------------------------------------------
  Carousel Styles
