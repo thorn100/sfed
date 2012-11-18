@@ -891,12 +891,12 @@ input[type=text] + .btn {
     position: relative;
 }
 
-.carousel-nav li {
+.carousel-nav > li {
     position: relative;
     right: 50%;
 }
 
-.carousel-nav li + li { margin-left: 5px; }
+.carousel-nav ul > li + li { margin-left: 5px; }
 
 .carousel-nav-item .icon {
     background-position: -210px 0;
@@ -911,12 +911,14 @@ input[type=text] + .btn {
     background-position: -226px 0;
     width: 6px;
     height: 8px;
+    margin-right: 8px;
 }
 
 .carousel-nav-next .icon {
     background-position: -232px 0;
     width: 6px;
     height: 8px;
+    margin-left: 8px;
 }
 
 /* ---------------------------------------------------------------------

@@ -131,10 +131,14 @@
                             <div class="carousel-nav-wrap">
                                 <ul class="carousel-nav h-list">
                                     <!-- <li><a href="#" class="carousel-nav-prev"><i class="icon"></i></a></li> -->
-                                    <li><a href="#" class="carousel-nav-item"><i class="icon"></i></a></li>
-                                    <li><a href="#" class="carousel-nav-item"><i class="icon"></i></a></li>
-                                    <li><a href="#" class="carousel-nav-item"><i class="icon"></i></a></li>
-                                    <li><a href="#" class="carousel-nav-item"><i class="icon"></i></a></li>
+                                    <li>
+                                        <ul class="h-list">
+                                            <li><a href="#" class="carousel-nav-item"><i class="icon"></i></a></li>
+                                            <li><a href="#" class="carousel-nav-item"><i class="icon"></i></a></li>
+                                            <li><a href="#" class="carousel-nav-item"><i class="icon"></i></a></li>
+                                            <li><a href="#" class="carousel-nav-item"><i class="icon"></i></a></li>
+                                        </ul>
+                                    </li>
                                     <!-- <li><a href="#" class="carousel-nav-next"><i class="icon"></i></a></li> -->
                                 </ul>
                             </div><!--/.carousel-nav-wrap-->
