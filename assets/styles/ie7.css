@@ -65,6 +65,18 @@ audio, canvas, video {
 	right: 0;
 }
 
+/* Category Count */
+.cat-list a {
+	position: relative;
+	display: block;
+}
+
+.entry-count {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
 /* Buttons */
 .btn {
 	padding-left: 0;
