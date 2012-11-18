@@ -96,13 +96,13 @@
                                     </div>
                                     <div class="block-bd">
                                         <h3 class="hdg hdg-3-feat hdg-sep-feat">
-                                            Christmas Sugar Cookies
+                                            Lorem Ipsum Dolor Sit Amet
                                             <span class="comment-count">
                                                 <a href="#"><i class="icon icon-comment"></i>9</a>
                                             </span>
                                         </h3>
-                                        <p class="block-copy sep-bottom">It's not a Halloween party until somebody screams&#8230; whether with terror or delight is up to the host. Here's a few scarifying soiree suggestions for the adults plus&#8230;<a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a></p>
-                                        <span class="article-cat serif">People<i class="icon icon-cat-arrow"></i></span>
+                                        <p class="block-copy sep-bottom">Nsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam&#8230;<a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a></p>
+                                        <span class="article-cat serif">Heroes<i class="icon icon-cat-arrow"></i></span>
                                         <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                     </div>
                                 </div><!--/.slide-->
@@ -114,13 +114,13 @@
                                     </div>
                                     <div class="block-bd">
                                         <h3 class="hdg hdg-3-feat hdg-sep-feat">
-                                            Christmas Sugar Cookies
+                                            Sed ut Perspiciatis
                                             <span class="comment-count">
                                                 <a href="#"><i class="icon icon-comment"></i>9</a>
                                             </span>
                                         </h3>
-                                        <p class="block-copy sep-bottom">It's not a Halloween party until somebody screams&#8230; whether with terror or delight is up to the host. Here's a few scarifying soiree suggestions for the adults plus&#8230;<a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a></p>
-                                        <span class="article-cat serif">People<i class="icon icon-cat-arrow"></i></span>
+                                        <p class="block-copy sep-bottom">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore&#8230;<a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a></p>
+                                        <span class="article-cat serif">Health<i class="icon icon-cat-arrow"></i></span>
                                         <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                     </div>
                                 </div><!--/.slide-->
@@ -132,25 +132,25 @@
                                     </div>
                                     <div class="block-bd">
                                         <h3 class="hdg hdg-3-feat hdg-sep-feat">
-                                            Christmas Sugar Cookies
+                                            Nemo Enim Ipsam Voluptatem
                                             <span class="comment-count">
                                                 <a href="#"><i class="icon icon-comment"></i>9</a>
                                             </span>
                                         </h3>
-                                        <p class="block-copy sep-bottom">It's not a Halloween party until somebody screams&#8230; whether with terror or delight is up to the host. Here's a few scarifying soiree suggestions for the adults plus&#8230;<a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a></p>
-                                        <span class="article-cat serif">People<i class="icon icon-cat-arrow"></i></span>
+                                        <p class="block-copy sep-bottom">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui&#8230;<a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a></p>
+                                        <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                         <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                     </div>
                                 </div><!--/.slide-->
                             </div><!--/.blocks-->
                             <div class="carousel-nav-wrap">
                                 <ul class="carousel-nav h-list">
-                                    <li><a href="#" class="carousel-nav-prev">&lt;</a></li>
-                                    <li><a href="#" class="carousel-nav-item">X</a></li>
-                                    <li><a href="#" class="carousel-nav-item">X</a></li>
-                                    <li><a href="#" class="carousel-nav-item">X</a></li>
-                                    <li><a href="#" class="carousel-nav-item">X</a></li>
-                                    <li><a href="#" class="carousel-nav-next">&gt;</a></li>
+                                    <!-- <li><a href="#" class="carousel-nav-prev"><i class="icon"></i></a></li> -->
+                                    <li><a href="#" class="carousel-nav-item"><i class="icon"></i></a></li>
+                                    <li><a href="#" class="carousel-nav-item"><i class="icon"></i></a></li>
+                                    <li><a href="#" class="carousel-nav-item"><i class="icon"></i></a></li>
+                                    <li><a href="#" class="carousel-nav-item"><i class="icon"></i></a></li>
+                                    <!-- <li><a href="#" class="carousel-nav-next"><i class="icon"></i></a></li> -->
                                 </ul>
                             </div><!--/.carousel-nav-wrap-->
                         </div><!--/.carousel-->

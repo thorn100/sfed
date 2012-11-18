@@ -174,7 +174,7 @@ APP.SimpleCarousel = {
         var self = this;
         this.timer = setInterval(function() {
             self.showNextSlide();
-        }, 4000);
+        }, 5000);
     },
 
     stopSlideshow: function() {
