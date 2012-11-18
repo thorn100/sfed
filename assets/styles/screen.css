@@ -324,6 +324,7 @@ input[type=text] {
     -ms-box-shadow: inset 2px 2px 2px -1px rgba(0,0,0,.3);
     -o-box-shadow: inset 2px 2px 2px -1px rgba(0,0,0,.3);
     box-shadow: inset 2px 2px 2px -1px rgba(0,0,0,.3);
+    margin: 0;
 }
 
 .input-text {
@@ -343,8 +344,6 @@ input[type=text] {
 
 .input-text-alt::-webkit-input-placeholder,
 .input-text-alt:-moz-input-placeholder { color: #858782; }
-
-
 
 /* ---------------------------------------------------------------------
  List Styles
@@ -603,7 +602,7 @@ button.btn-submit {
     background: url(../images/icon-search.png) no-repeat center center #dd4548;
     width: 28px;
     height: 27px;
-    margin-left: -4px;
+    margin-left: -2px;
     display: block;
     float: left;
 }
