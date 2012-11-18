@@ -853,9 +853,7 @@ input[type=text] + .btn {
 /* ---------------------------------------------------------------------
  Carousel Styles
 ------------------------------------------------------------------------ */
-.carousel {
-    position: relative;
-}
+.carousel { position: relative; }
 
 .slide-container {
     position: relative;
@@ -889,9 +887,7 @@ input[type=text] + .btn {
     right: 50%;
 }
 
-.carousel-nav li + li {
-    margin-left: 5px;
-}
+.carousel-nav li + li { margin-left: 5px; }
 
 .carousel-nav-item .icon {
     background-position: -210px 0;
