@@ -332,7 +332,6 @@ input[type=text] {
     -o-box-shadow: inset 2px 2px 2px -1px rgba(0,0,0,.3);
     box-shadow: inset 2px 2px 2px -1px rgba(0,0,0,.3);
     margin: 0;
-    line-height: normal !important;
 }
 
 .input-text {
@@ -351,8 +350,9 @@ input[type=text] {
     font-weight: bold;
 }
 
-.input-text-alt::-webkit-input-placeholder,
-.input-text-alt:-moz-input-placeholder { color: #858782; }
+.input-text::-webkit-input-placeholder,
+.input-text:-moz-placeholder,
+.input-text:-ms-input-placeholder { color: #858782; }
 
 /* ---------------------------------------------------------------------
  List Styles
@@ -623,6 +623,10 @@ button.btn,
 input.btn { color: #444444; }
 
 input[type=text] + .btn {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    -o-box-shadow: none;
+    -ms-box-shadow: none;
     box-shadow: none;
     border: 1px solid #aebf70;
     height: 37px;
@@ -875,7 +879,7 @@ input[type=text] + .btn {
 }
 
 .carousel-nav-wrap {
-    bottom: 0;
+    bottom: 6px;
     overflow: hidden;
     position: absolute;
     width: 96%;
@@ -1019,6 +1023,8 @@ input[type=text] + .btn {
     margin-left: 24px;
 }
 
+.cat-list a { display: block; }
+
 /* ---------------------------------------------------------------------
  Advertisement Styles
 ------------------------------------------------------------------------ */
@@ -1057,7 +1063,10 @@ input[type=text] + .btn {
     margin-bottom: 6px;
 }
 
-.form-search-recipies .input-text { width: 428px; }
+.form-search-recipies .input-text {
+    width: 428px;
+    color: #333333;
+}
 
 .form-search-recipies .input-text::-webkit-input-placeholder,
 .form-search-recipies .input-text:-moz-input-placeholder { color: #333333; }
