@@ -26,21 +26,6 @@
 
         <!-- JAVASCRIPT -->
         <script type="text/javascript" src="assets/scripts/global.js"></script>
-
-        <!-- STYLESHEET PRESENTATION -->
-        <style type="text/css">
-            .grid .grid-row { border: 1px solid #cccccc; }
-
-            .grid .grid-row { background: #FF4C4C; background: rgba(75,74,77,.7); }
-            .grid .grid-col:nth-of-type(1n) { background: #19EDED; background: rgba(242,242,242,.9); }
-            .grid .grid-col:nth-of-type(2n) { background: #4CC9C9; background: rgba(242,242,242,.5); }
-
-            /*.ribbon { margin-top: 10px; }*/
-
-            /*.btn { margin-bottom: 10px; }*/
-
-            /*.btn + .btn { margin-left: 20px; }*/
-        </style>
     </head>
 
 <body>

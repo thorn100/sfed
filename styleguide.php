@@ -270,7 +270,7 @@
                             <div class="column-wrap">
                                 <div class="column-sep">
                                     <div class="list-wrap">
-                                        <h3 class="hdg hdg-3-alt2 hdg-caps block-copy sep-bottom">Articles By Meals</h3>
+                                        <h3 class="hdg hdg-3-alt2 hdg-caps sep-bottom">Articles By Meals</h3>
                                         <ol class="cat-list">
                                             <li><a href="#">Meal<span class="entry-count">4 Entries</span></a></li>
                                             <li><a href="#">Breakfast<span class="entry-count">6 Entries</span></a></li>
@@ -281,7 +281,7 @@
                                         </ol>
                                     </div>
                                     <div class="list-wrap">
-                                        <h3 class="hdg hdg-3-alt2 hdg-caps block-copy sep-bottom">Articles By Dish</h3>
+                                        <h3 class="hdg hdg-3-alt2 hdg-caps sep-bottom">Articles By Dish</h3>
                                         <ol class="cat-list">
                                             <li><a href="#">Appetizer<span class="entry-count">4 Entries</span></a></li>
                                             <li><a href="#">Beverage<span class="entry-count">6 Entries</span></a></li>
@@ -294,7 +294,7 @@
                                 </div> 
                                 <div class="column-sep">
                                     <div class="list-wrap">
-                                        <h3 class="hdg hdg-3-alt2 hdg-caps block-copy sep-bottom">Articles By Occasion</h3>
+                                        <h3 class="hdg hdg-3-alt2 hdg-caps sep-bottom">Articles By Occasion</h3>
                                         <ol class="cat-list">
                                             <li><a href="#">Barbecue<span class="entry-count">4 Entries</span></a></li>
                                             <li><a href="#">Christmas<span class="entry-count">6 Entries</span></a></li>
@@ -456,7 +456,7 @@
                             <div class="panel panel-newsletter">
                                 <div class="panel-hdg"><i class="icon icon-email"></i> Sign up for the Relish Newsletter</div>
                                 <form class="form-newsletter">
-                                    <input class="input-text" type="text" name="email-newsletter" id="email-newsletter" placeholder="Your Email Address" tabindex="2" />
+                                    <input class="input-text" type="text" name="email-newsletter" id="email-newsletter2" placeholder="Your Email Address" tabindex="2" />
                                     <button class="btn">Send It</button>
                                 </form>
                             </div>
