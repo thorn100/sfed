@@ -17,22 +17,21 @@ audio, canvas, video {
     zoom: 1;
 }
 
-/* Header */
-.toolbox { width: 460px; }
-
 /* Correct Icons */
 .nav-main li > a,
 .article-cat,
-.link-more { position: relative; }
+.link-more,
+.link-more-alt { position: relative; }
 
-.link-more { padding-right: 10px; }
+.link-more,
+.link-more-alt { padding-right: 10px; }
 
 .icon-nav-arrow {
 	position: absolute;
 	float: none;
 	margin: 0;
 	padding: 0;
-	top: 0;
+	top: 2px;
 	right: -11px;
 	background-position: -66px 0;
 }
@@ -43,11 +42,34 @@ audio, canvas, video {
 	right: -15px;
 }
 
-.icon-more-arrow {
+.icon-more-arrow,
+.icon-more-arrow-rev {
 	position: absolute;
-	top: 0;
+	top: 2px;
 	right: 0;
 }
 
+/* Correct Buttons */
+.btn {
+	padding-left: 0;
+	padding-right: 12px;
+}
+
+.btn-icon {
+	padding-left: 12px;
+	width: 142px;
+}
+
+/* Header */
+.toolbox { width: 460px; }
+
 /* Correct Featured Section */
 .media-feat { margin-bottom: 20px; }
+
+/* Correct Ribbon */
+.ribbon { border: none; }
+
+.promo-feat {
+	height: 250px;
+	margin-bottom: 18px;
+}

@@ -193,6 +193,8 @@ textarea {
     margin-left: 1%;
 }
 
+.block-bd { overflow: hidden; }
+
 .block-img + .block-bd {
     margin-top: 2px;
 }
