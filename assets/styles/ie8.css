@@ -45,3 +45,6 @@ input[type=text] {
     -ms-box-shadow: 0 0 5px -1px #7f7f7f;
     box-shadow: 0 0 5px -1px #7f7f7f;
 }
+
+/* Gradients */
+.btn-sumbit { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1affffff', endColorstr='#1a000000',GradientType=0 ); }

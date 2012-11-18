@@ -5,6 +5,7 @@ better way of implementing sticky footer?
 
 another way to layout the community & poll?
   - equal columns?
+  - ended up adding negative margin-left
 
 /** TODO **/
 Convert images to sprites
