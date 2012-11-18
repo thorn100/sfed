@@ -364,6 +364,8 @@ input[type=text] {
 
 .h-list > li { float: left; }
 
+.h-list-piped { line-height: 1; }
+
 .h-list-piped > li + li {
     margin-left: 8px;
     border-left: 1px solid #ffffff;
