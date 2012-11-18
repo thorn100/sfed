@@ -16,3 +16,20 @@ audio, canvas, video {
     display: inline;
     zoom: 1;
 }
+
+/* Correct Header Inconsistencies */
+.toolbox { width: 460px; }
+
+.nav-main li > a {
+	position: relative;
+}
+
+.icon-nav-arrow {
+	position: absolute;
+	float: none;
+	margin: 0;
+	padding: 0;
+	top: 0;
+	right: -11px;
+	background-position: -66px 0;
+}
