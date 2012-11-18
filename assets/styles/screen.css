@@ -563,7 +563,10 @@ input[type=text] {
     box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.5);
 }
 
-.btn:hover { text-decoration: none; }
+.btn:hover {
+    text-decoration: none;
+    color: #111111;
+}
 
 .btn-icon {
     width: 125px;
@@ -616,6 +619,9 @@ button.btn-submit {
     float: left;
 }
 
+button.btn,
+input.btn { color: #444444; }
+
 input[type=text] + .btn {
     box-shadow: none;
     border: 1px solid #aebf70;
@@ -623,7 +629,6 @@ input[type=text] + .btn {
     line-height: 11px;
     margin-left: -1px;
     margin-right: 0;
-    color: #444444;
 }
 
 /* ---------------------------------------------------------------------
@@ -643,6 +648,7 @@ input[type=text] + .btn {
     margin-top: 9px;
     margin-right: 12px;
 }
+.nav-main a:hover .icon-home { background-position: 0 -19px; }
 
 .icon-nav-arrow {
     background-position: -61px 0;
@@ -653,6 +659,7 @@ input[type=text] + .btn {
     padding-left: 5px;
     float: right;
 }
+.nav-main a:hover .icon-nav-arrow { background-position: -61px -19px; }
 
 /* Main Navigation Alt Icons */
 .nav-main-alt li + li { margin-left: 36px; }
@@ -669,18 +676,21 @@ input[type=text] + .btn {
     margin-top: 9px;
     background-position: -16px 0;
 }
+.nav-main-alt a:hover .icon-video { background-position: -16px -19px; }
 
 .icon-social {
     width: 16px;
     margin-top: 10px;
     background-position: -29px 0;
 }
+.nav-main-alt a:hover .icon-social { background-position: -29px -19px; }
 
 .icon-store {
     width: 16px;
     margin-top: 11px;
     background-position: -45px 0;
 }
+.nav-main-alt a:hover .icon-store { background-position: -45px -19px; }
 
 /* Button Icons */
 .btn .btn-icon-feed {
@@ -690,6 +700,7 @@ input[type=text] + .btn {
     float: left;
     margin-right: 5px;
 }
+.btn:hover .btn-icon-feed { background-position: -74px -19px; }
 
 .btn .btn-icon-recipe {
     background-position: -94px 0;
@@ -699,6 +710,7 @@ input[type=text] + .btn {
     float: left;
     margin-right: 5px;
 }
+.btn:hover .btn-icon-recipe { background-position: -94px -19px; }
 
 /* Comment Count Icon */
 .icon-comment {
