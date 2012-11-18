@@ -17,12 +17,15 @@ audio, canvas, video {
     zoom: 1;
 }
 
-/* Correct Header Inconsistencies */
+/* Header */
 .toolbox { width: 460px; }
 
-.nav-main li > a {
-	position: relative;
-}
+/* Correct Icons */
+.nav-main li > a,
+.article-cat,
+.link-more { position: relative; }
+
+.link-more { padding-right: 10px; }
 
 .icon-nav-arrow {
 	position: absolute;
@@ -33,3 +36,18 @@ audio, canvas, video {
 	right: -11px;
 	background-position: -66px 0;
 }
+
+.icon-cat-arrow {
+	position: absolute;
+	top: 0;
+	right: -15px;
+}
+
+.icon-more-arrow {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+/* Correct Featured Section */
+.media-feat { margin-bottom: 20px; }
