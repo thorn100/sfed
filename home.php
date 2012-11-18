@@ -68,26 +68,92 @@
 
                 <div class="grid-row">
                     <div class="grid-col grid-col-8">
-                        <div class="blocks blocks-1up block-feat">
-                            <div>
-                                <div class="block-img">
-                                    <div class="img-wrap">
-                                        <img src="assets/images/img-feat.jpg" alt="Christmas Sugar Cookies" />
+                        <div class="carousel" id="js-carousel">
+                            <div class="blocks blocks-1up block-feat slide-container">
+                                <div class="slide">
+                                    <div class="block-img">
+                                        <div class="img-wrap">
+                                            <img src="assets/images/img-feat.jpg" alt="Christmas Sugar Cookies" />
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="block-bd">
-                                    <h3 class="hdg hdg-3-feat hdg-sep-feat">
-                                        Christmas Sugar Cookies
-                                        <span class="comment-count">
-                                            <a href="#"><i class="icon icon-comment"></i>9</a>
-                                        </span>
-                                    </h3>
-                                    <p class="block-copy sep-bottom">It's not a Halloween party until somebody screams&#8230; whether with terror or delight is up to the host. Here's a few scarifying soiree suggestions for the adults plus&#8230;<a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a></p>
-                                    <span class="article-cat serif">People<i class="icon icon-cat-arrow"></i></span>
-                                    <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
-                                </div>
-                            </div>
-                        </div>
+                                    <div class="block-bd">
+                                        <h3 class="hdg hdg-3-feat hdg-sep-feat">
+                                            Christmas Sugar Cookies
+                                            <span class="comment-count">
+                                                <a href="#"><i class="icon icon-comment"></i>9</a>
+                                            </span>
+                                        </h3>
+                                        <p class="block-copy sep-bottom">It's not a Halloween party until somebody screams&#8230; whether with terror or delight is up to the host. Here's a few scarifying soiree suggestions for the adults plus&#8230;<a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a></p>
+                                        <span class="article-cat serif">People<i class="icon icon-cat-arrow"></i></span>
+                                        <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
+                                    </div>
+                                </div><!--/.slide-->
+                                <div class="slide">
+                                    <div class="block-img">
+                                        <div class="img-wrap">
+                                            <img src="http://placehold.it/565x244" alt="Placeholder Image" />
+                                        </div>
+                                    </div>
+                                    <div class="block-bd">
+                                        <h3 class="hdg hdg-3-feat hdg-sep-feat">
+                                            Christmas Sugar Cookies
+                                            <span class="comment-count">
+                                                <a href="#"><i class="icon icon-comment"></i>9</a>
+                                            </span>
+                                        </h3>
+                                        <p class="block-copy sep-bottom">It's not a Halloween party until somebody screams&#8230; whether with terror or delight is up to the host. Here's a few scarifying soiree suggestions for the adults plus&#8230;<a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a></p>
+                                        <span class="article-cat serif">People<i class="icon icon-cat-arrow"></i></span>
+                                        <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
+                                    </div>
+                                </div><!--/.slide-->
+                                <div class="slide">
+                                    <div class="block-img">
+                                        <div class="img-wrap">
+                                            <img src="http://placehold.it/565x244/547B22" alt="Placeholder Image" />
+                                        </div>
+                                    </div>
+                                    <div class="block-bd">
+                                        <h3 class="hdg hdg-3-feat hdg-sep-feat">
+                                            Christmas Sugar Cookies
+                                            <span class="comment-count">
+                                                <a href="#"><i class="icon icon-comment"></i>9</a>
+                                            </span>
+                                        </h3>
+                                        <p class="block-copy sep-bottom">It's not a Halloween party until somebody screams&#8230; whether with terror or delight is up to the host. Here's a few scarifying soiree suggestions for the adults plus&#8230;<a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a></p>
+                                        <span class="article-cat serif">People<i class="icon icon-cat-arrow"></i></span>
+                                        <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
+                                    </div>
+                                </div><!--/.slide-->
+                                <div class="slide">
+                                    <div class="block-img">
+                                        <div class="img-wrap">
+                                            <img src="http://placehold.it/565x244/BD7423" alt="Placeholder Image" />
+                                        </div>
+                                    </div>
+                                    <div class="block-bd">
+                                        <h3 class="hdg hdg-3-feat hdg-sep-feat">
+                                            Christmas Sugar Cookies
+                                            <span class="comment-count">
+                                                <a href="#"><i class="icon icon-comment"></i>9</a>
+                                            </span>
+                                        </h3>
+                                        <p class="block-copy sep-bottom">It's not a Halloween party until somebody screams&#8230; whether with terror or delight is up to the host. Here's a few scarifying soiree suggestions for the adults plus&#8230;<a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a></p>
+                                        <span class="article-cat serif">People<i class="icon icon-cat-arrow"></i></span>
+                                        <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
+                                    </div>
+                                </div><!--/.slide-->
+                            </div><!--/.blocks-->
+                            <div class="carousel-nav-wrap">
+                                <ul class="carousel-nav h-list">
+                                    <li><a href="#" class="carousel-nav-prev">&lt;</a></li>
+                                    <li><a href="#" class="carousel-nav-item">X</a></li>
+                                    <li><a href="#" class="carousel-nav-item">X</a></li>
+                                    <li><a href="#" class="carousel-nav-item">X</a></li>
+                                    <li><a href="#" class="carousel-nav-item">X</a></li>
+                                    <li><a href="#" class="carousel-nav-next">&gt;</a></li>
+                                </ul>
+                            </div><!--/.carousel-nav-wrap-->
+                        </div><!--/.carousel-->
                     </div>
                     <div class="grid-col grid-col-4">
                         <div class="grid-row">

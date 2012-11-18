@@ -234,7 +234,8 @@ textarea {
 .clearfix:after,
 .grid-row:after,
 .blocks:after,
-.media:after {
+.media:after,
+.slide:after {
     display: block;
     height: 0;
     line-height: 0;
@@ -849,6 +850,47 @@ input[type=text] + .btn {
 .nav-home { text-indent: -9999px; }
 .nav-home a { background: url(../images/icon-home.png) no-repeat; }
 
+
+/* ---------------------------------------------------------------------
+ Carousel Styles
+------------------------------------------------------------------------ */
+.carousel {
+    position: relative;
+}
+
+.slide-container {
+    position: relative;
+    height: 372px;
+ }
+
+.slide {
+    position: absolute;
+    z-index: 99;
+}
+
+.carousel-nav-wrap {
+    bottom: 0;
+    overflow: hidden;
+    position: absolute;
+    width: 96%;
+    z-index: 100;
+}
+
+.carousel-nav {
+    float: left;
+    left: 50%;
+    margin: 0 auto;
+    overflow: visible;
+    padding: 0;
+    position: relative;
+}
+
+.carousel-nav li {
+    position: relative;
+    right: 50%;
+}
+
+.carousel-nav-item {}
 
 /* ---------------------------------------------------------------------
  Content Styles

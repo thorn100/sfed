@@ -15,6 +15,7 @@ var NERD = NERD || {};
     $(function() {
         APP.HasJS.init();
         APP.AutoReplace.init();
+        APP.SimpleCarousel.init();
     });
 
 /* ---------------------------------------------------------------------
@@ -96,6 +97,88 @@ APP.AutoReplace = {
                 );
             }
         );
+    }
+};
+
+/* ---------------------------------------------------------------------
+SimpleCarousel
+Author: **withheld**
+
+Controls and slide animation for a simple carousel.
+------------------------------------------------------------------------ */
+APP.SimpleCarousel = {
+
+    currentSlide: 0,
+    numSlides: undefined,
+    $carousel: undefined,
+    $controls: undefined,
+    $slides: undefined,
+    timer: undefined,
+
+    init: function() {
+        var self = this;
+        var $carousel = $('#js-carousel');
+        if (!$carousel.length) {
+            return;
+        }
+        this.$carousel = $carousel;
+        this.$controls = this.$carousel.find('.carousel-nav-item');
+        this.$slides = this.$carousel.find('.slide');
+        this.$controls.eq(0).addClass('active');
+        this.$slides.hide().eq(0).show();
+        this.numSlides = this.$slides.length;
+
+        this.startSlideshow();
+
+        $carousel.hover(
+            function() {
+                self.stopSlideshow();
+            },
+            function() {
+                self.startSlideshow();
+            }
+        );
+
+        this.bind();
+    },
+
+    bind: function () {
+        var self = this;
+
+        this.$controls.click(function(e) {
+            e.preventDefault();
+            var index = $(this).parent().index();
+            self.showSlide(index);
+        });
+
+    },
+
+    showSlide: function(index) {
+
+        this.$controls.removeClass('active');
+        this.$controls.eq(index).addClass('active');
+        this.$slides.fadeOut('slow');
+        this.$slides.eq(index).fadeIn('slow');
+        this.currentSlide = index;
+    },
+
+    showNextSlide: function() {
+        if(this.currentSlide + 1 < this.numSlides) {
+            this.showSlide(this.currentSlide + 1);
+        } else {
+            this.showSlide(0);
+        }
+    },
+
+    startSlideshow: function() {
+        var self = this;
+        this.timer = setInterval(function() {
+            self.showNextSlide();
+        }, 4000);
+    },
+
+    stopSlideshow: function() {
+        clearInterval(this.timer);
     }
 };
 
