@@ -28,7 +28,8 @@ audio, canvas, video {
 .article-cat,
 .link-more,
 .link-more-alt,
-.hdg-block a { position: relative; }
+.hdg-block a,
+.block-bd { position: relative; }
 
 .link-more,
 .link-more-alt,
@@ -55,6 +56,12 @@ audio, canvas, video {
 .icon-more-arrow-dk {
 	position: absolute;
 	top: 2px;
+	right: 0;
+}
+
+.comment-count {
+	position: absolute;
+	top: 0;
 	right: 0;
 }
 
