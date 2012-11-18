@@ -444,20 +444,6 @@ input[type=text] {
 /* ---------------------------------------------------------------------
  Font/Heading Styles
 ------------------------------------------------------------------------ */
-.serif {
-    font-family: Georgia, Times, "Times New Roman", serif;
-    font-style: italic;
-}
-
-.san-serif-alt { font-family: Verdana, Geneva, sans-serif; }
-
-.hdg-caps { text-transform: uppercase; }
-
-.txt-rev,
-.txt-rev a { color: #ffffff; }
-.txt-ital { font-style: italic; }
-
-/* Headings */
 .hdg {
     color: #2e2e2e;
     font-weight: bold;
@@ -492,6 +478,19 @@ input[type=text] {
     font-size: 13px;
     font-weight: bold;
 }
+
+.serif {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-style: italic;
+}
+
+.san-serif-alt { font-family: Verdana, Geneva, sans-serif; }
+
+.hdg-caps { text-transform: uppercase; }
+
+.txt-rev,
+.txt-rev a { color: #ffffff; }
+.txt-ital { font-style: italic; }
 
 /* Block Headings */
 .hdg-block {
