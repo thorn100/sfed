@@ -150,7 +150,7 @@
                                             <a href="#"><i class="icon icon-comment"></i>9</a>
                                         </span>
                                     </h3>
-                                    <p class="block-copy sep-bottom">Teresa suggests handing you lantern on the porch, in trees, or using as the centerpiece for a festive party table&#8230;</p>
+                                    <p class="block-copy sep-bottom">Teresa suggests hanging your lantern on the porch, in trees or using as the centerpiece for a festive&#8230;</p>
                                     <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                     <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                 </div>
@@ -186,7 +186,7 @@
                                             <a href="#"><i class="icon icon-comment"></i>9</a>
                                         </span>
                                     </h3>
-                                    <p class="block-copy sep-bottom">When we need easy-to-make recipes with a sense of style and flavor Italian fisherman brought this recipe along.</p>
+                                    <p class="block-copy sep-bottom">When we need easy-to-make recipes with a sense of style and flavor, Italian fisherman brought this&#8230;</p>
                                     <span class="article-cat serif">Other Stories<i class="icon icon-cat-arrow"></i></span>
                                     <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                 </div>
@@ -256,7 +256,7 @@
                         <div class="column-wrap">
                             <div class="column-sep">
                                 <div class="list-wrap">
-                                    <h3 class="hdg hdg-3-alt2 hdg-caps block-copy sep-bottom">Articles By Meals</h3>
+                                    <h3 class="hdg hdg-3-alt2 hdg-caps sep-bottom">Articles By Meals</h3>
                                     <ol class="cat-list">
                                         <li><a href="#">Meal<span class="entry-count">4 Entries</span></a></li>
                                         <li><a href="#">Breakfast<span class="entry-count">6 Entries</span></a></li>
@@ -267,7 +267,7 @@
                                     </ol>
                                 </div>
                                 <div class="list-wrap">
-                                    <h3 class="hdg hdg-3-alt2 hdg-caps block-copy sep-bottom">Articles By Dish</h3>
+                                    <h3 class="hdg hdg-3-alt2 hdg-caps sep-bottom">Articles By Dish</h3>
                                     <ol class="cat-list">
                                         <li><a href="#">Appetizer<span class="entry-count">4 Entries</span></a></li>
                                         <li><a href="#">Beverage<span class="entry-count">6 Entries</span></a></li>
@@ -293,7 +293,7 @@
                                     </ol>
                                 </div>
                                 <div class="list-wrap">
-                                    <h3 class="hdg hdg-3-alt2 hdg-caps block-copy sep-bottom">Articles By Ingredient</h3>
+                                    <h3 class="hdg hdg-3-alt2 hdg-caps sep-bottom">Articles By Ingredient</h3>
                                     <ol class="cat-list">
                                         <li><a href="#">Beef<span class="entry-count">4 Entries</span></a></li>
                                         <li><a href="#">Cheese<span class="entry-count">6 Entries</span></a></li>
@@ -313,7 +313,7 @@
                             </div> 
                             <div class="column-sep">
                                 <div class="list-wrap">
-                                    <h3 class="hdg hdg-3-alt2 hdg-caps block-copy sep-bottom">Articles By Occasion</h3>
+                                    <h3 class="hdg hdg-3-alt2 hdg-caps sep-bottom">Articles By Occasion</h3>
                                     <ol class="cat-list">
                                         <li><a href="#">Barbecue<span class="entry-count">4 Entries</span></a></li>
                                         <li><a href="#">Christmas<span class="entry-count">6 Entries</span></a></li>
@@ -334,7 +334,7 @@
                                     </ol>
                                 </div>
                                 <div class="list-wrap">
-                                    <h3 class="hdg hdg-3-alt2 hdg-caps block-copy sep-bottom">Articles By Seasonal</h3>
+                                    <h3 class="hdg hdg-3-alt2 hdg-caps sep-bottom">Articles By Seasonal</h3>
                                     <ol class="cat-list">
                                         <li><a href="#">Spring<span class="entry-count">4 Entries</span></a></li>
                                         <li><a href="#">Summer<span class="entry-count">6 Entries</span></a></li>
@@ -343,7 +343,7 @@
                                     </ol>
                                 </div>
                                 <div class="list-wrap">
-                                    <h3 class="hdg hdg-3-alt2 hdg-caps block-copy sep-bottom">Articles By Misc</h3>
+                                    <h3 class="hdg hdg-3-alt2 hdg-caps sep-bottom">Articles By Misc</h3>
                                     <ol class="cat-list">
                                         <li><a href="#">Freezable<span class="entry-count">4 Entries</span></a></li>
                                         <li><a href="#">Gifts<span class="entry-count">6 Entries</span></a></li>

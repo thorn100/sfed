@@ -7,6 +7,9 @@ another way to layout the community & poll?
   - equal columns?
   - ended up adding negative margin-left
 
+Alternative for text trunication that is cross browser compatibile?
+  - currently deleted some words to allow correct display across browsers.
+
 /** TODO **/
 Convert images to sprites
 Icon hover states

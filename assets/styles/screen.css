@@ -205,7 +205,8 @@ textarea {
 .block-feat .block-copy { line-height: 1.7; }
 
 .block-copy {
-    letter-spacing: normal;
+    height: 50px;
+    overflow: hidden;
 }
 
 .block-copy > .link-more {
