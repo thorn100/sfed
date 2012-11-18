@@ -1,8 +1,6 @@
 /** REVISIT **/
 .grid-col + .grid-col { margin-left: 2.6%; }
 
-better way of implementing sticky footer?
-
 another way to layout the community & poll?
   - equal columns?
   - ended up adding negative margin-left
@@ -13,6 +11,9 @@ Alternative for text trunication that is cross browser compatibile?
 /** TODO **/
 Convert images to sprites
 Icon hover states
+JavaScript for carousel (gifts that do)
+Clean CSS
+Landing page? to link to styleguide and index?
 
 /** NOTES **/
 Consolidating all section headings (Featured, Search, Recent, Categories, Community, Store, Featured Category Articles) to 14px. In the comp all sections use this but Search which uses 12px.
