@@ -47,4 +47,7 @@ input[type=text] {
 }
 
 /* Gradients */
-.btn-sumbit { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1affffff', endColorstr='#1a000000',GradientType=0 ); }
+.btn-sumbit {  }
+
+/* Progressive enhancement for image wrap gradient */
+.img-wrap { border: 1px solid #ececec; }

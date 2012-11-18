@@ -150,7 +150,7 @@
                                             <a href="#"><i class="icon icon-comment"></i>9</a>
                                         </span>
                                     </h3>
-                                    <p class="block-copy sep-bottom">Teresa suggests hanging your lantern on the porch, in trees or using as the centerpiece for a festive&#8230;</p>
+                                    <p class="block-copy sep-bottom">Teresa suggests hanging your lantern on the porch, in trees or using as the centerpiece for a&#8230;</p>
                                     <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                     <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                 </div>
@@ -186,7 +186,7 @@
                                             <a href="#"><i class="icon icon-comment"></i>9</a>
                                         </span>
                                     </h3>
-                                    <p class="block-copy sep-bottom">When we need easy-to-make recipes with a sense of style and flavor, Italian fisherman brought this&#8230;</p>
+                                    <p class="block-copy sep-bottom">When we need easy-to-make recipes with a sense of style and flavor, Italian fisherman brought&#8230;</p>
                                     <span class="article-cat serif">Other Stories<i class="icon icon-cat-arrow"></i></span>
                                     <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                 </div>
