@@ -50,7 +50,7 @@
         <div class="content section clearfix" role="main">
             <div class="wrapper-inner clearfix">
                 <div class="promo-wrap promo-banner">
-                    <img src="assets/images/promo-banner.jpg" alt="Experience KitchenAid Quality on the Countertop" />
+                    <a href="#"><img src="assets/images/promo-banner.jpg" alt="Experience KitchenAid Quality on the Countertop" /></a>
                 </div>
 
                 <div class="grid-row">
@@ -379,8 +379,8 @@
                                     </div>
                                     <div class="block-img">
                                         <div class="promo-wrap">
-                                            <img src="assets/images/promo-supper-club.png" alt="Supper Club - Join the discussion around the table." />
-                                            <img src="assets/images/promo-bake-forward.png" alt="Bake it forward. - Random acts of everyday deliciousness." />
+                                            <a href="#"><img src="assets/images/promo-supper-club.png" alt="Supper Club - Join the discussion around the table." /></a>
+                                            <a href="#"><img src="assets/images/promo-bake-forward.png" alt="Bake it forward. - Random acts of everyday deliciousness." /></a>
                                         </div>
                                     </div>
                                 </div>

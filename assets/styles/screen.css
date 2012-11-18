@@ -202,7 +202,10 @@ textarea {
 }
 
 /* Block Featured */
-.block-feat .block-copy { line-height: 1.7; }
+.block-feat .block-copy {
+    line-height: 1.7;
+    height: auto;
+}
 
 .block-copy {
     height: 50px;
@@ -959,7 +962,9 @@ input[type=text] + .btn {
 
 .promo-feat { margin-left: -15px; }
 
-.promo-wrap img + img {
+.promo-wrap a { display: block; }
+
+.promo-wrap a + a {
     margin-top: 10px;
 }
 
