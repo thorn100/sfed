@@ -112,3 +112,6 @@ a.btn { padding-left: 5px; }
 
 /* Category List */
 .column-wrap { margin-left: 25px; }
+
+/* Carousel Navigation */
+.carousel-nav-wrap { bottom: 30px; }
