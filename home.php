@@ -304,7 +304,7 @@
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
-                    </div><!--/.grid-col-6-->
+                    </div>
 
                     <div class="grid-col grid-col-6">
                         <h2 class="hdg hdg-2 hdg-caps is-hidden">Categories List</h2>
@@ -415,7 +415,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div><!--/.grid-col-6-->
+                    </div>
                 </div>
 
                 <div class="grid-row">
@@ -424,7 +424,6 @@
                             <h2 class="hdg hdg-2 hdg-caps">Relish Community</h2>
                             <a href="#">Browse All Community Offerings<i class="icon icon-more-arrow-dk"></i></a>
                         </div>
-
                         <div class="grid-col grid-col-7">
                             <div class="blocks blocks-1up">
                                 <div>
@@ -507,8 +506,8 @@
                                 <a class="link-more" href="#">More Details<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
-                    </div><!--/.grid-col-4-->
-                </div><!--/.grid-row-->
+                    </div>
+                </div><
 
                 <div class="grid-row">
                     <div class="grid-col grid-col-4">
