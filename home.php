@@ -509,7 +509,7 @@
                             </div>
                         </div>
                     </div>
-                </div><
+                </div>
 
                 <div class="grid-row">
                     <div class="grid-col grid-col-4">
