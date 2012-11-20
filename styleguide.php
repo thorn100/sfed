@@ -31,9 +31,9 @@
         <style type="text/css">
             .grid .grid-row { border: 1px solid #cccccc; }
 
-            .grid .grid-row { background: #FF4C4C; background: rgba(75,74,77,.7); }
-            .grid .grid-col:nth-of-type(1n) { background: #19EDED; background: rgba(242,242,242,.9); }
-            .grid .grid-col:nth-of-type(2n) { background: #4CC9C9; background: rgba(242,242,242,.5); }
+            .grid .grid-row { background: #818082; background: rgba(75,74,77,.7); }
+            .grid .grid-col:nth-of-type(1n) { background: #999999; background: rgba(242,242,242,.9); }
+            .grid .grid-col:nth-of-type(2n) { background: #cccccc; background: rgba(242,242,242,.5); }
         </style>
     </head>
 
