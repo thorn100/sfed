@@ -11,7 +11,7 @@ Width: All Sizes
 .sep-bottom { border-bottom: 1px solid #E1E1E1; }
 .btn-submit { border: 1px solid #d9d9d9; }
 .hdg-block-tertiary { background: #E6E3FA; }
-.hdg-sep-featured { border-bottom: 2px solid #E0575A; }
+.hdg-sep-feat { border-bottom: 2px solid #E0575A; }
 .hdg-sep-primary { border-bottom: 2px solid #BFDA5E; }
 .hdg-sep-tertiary { border-bottom: 2px solid #E6E3FA; }
 .comment-count a { color: #666666; }
@@ -46,8 +46,7 @@ input[type=text] {
     box-shadow: 0 0 5px -1px #7f7f7f;
 }
 
-/* Gradients */
-.btn-sumbit {  }
+.btn-sumbit { border: 1px solid #C4C4C4; }
 
 /* Progressive enhancement for image wrap gradient */
 .img-wrap { border: 1px solid #ececec; }
