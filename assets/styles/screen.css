@@ -350,9 +350,9 @@ input[type=text] {
     font-weight: bold;
 }
 
-.input-text::-webkit-input-placeholder,
+input::-webkit-input-placeholder,
 .input-text:-moz-placeholder,
-.input-text:-ms-input-placeholder { color: #858782; }
+.input-text:-ms-input-placeholder { color: red; }
 
 /* ---------------------------------------------------------------------
  List Styles

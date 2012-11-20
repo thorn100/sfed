@@ -104,14 +104,23 @@
                     <div class="grid-row">
                         <div class="grid-col grid-col-12">
                             <ul>
-                                <li style="margin-bottom: 15px;"><a class="btn" href="#">Send</a></li>
-                                <li style="margin-bottom: 15px;"><a class="btn btn-icon" href="#"><i class="icon btn-icon-feed"></i>Feed Me</a></li>
-                                <li style="margin-bottom: 15px;"><a class="btn btn-icon" href="#"><i class="icon btn-icon-recipe"></i>My Recipie Box</a></li>
-                                <li style="margin-bottom: 15px;"><a class="btn btn-submit" href="#">Submit</a></li>
-                                <li style="margin-bottom: 15px;"><input class="btn btn-submit" type="submit" value="Submit" /></li>
-                                <li style="margin-bottom: 15px;"><button class="btn btn-submit">Submit</button></li>
+                                <li style="margin-bottom: 15px; float: left;"><a class="btn" href="#">Send</a></li>
+                                <li style="margin-bottom: 15px; float: left; margin-left: 20px;"><a class="btn btn-icon" href="#"><i class="icon btn-icon-feed"></i>Feed Me</a></li>
+                                <li style="margin-bottom: 15px; float: left; margin-left: 20px;"><a class="btn btn-icon" href="#"><i class="icon btn-icon-recipe"></i>My Recipie Box</a></li>
                             </ul>
-
+                        </div>
+                    </div>
+                    <div class="grid-row">
+                        <div class="grid-col grid-col-12">
+                            <ul>
+                                <li style="margin-bottom: 15px; float: left;"><a class="btn btn-submit" href="#">Submit</a></li>
+                                <li style="margin-bottom: 15px; float: left; margin-left: 20px;"><input class="btn btn-submit" type="submit" value="Submit" /></li>
+                                <li style="margin-bottom: 15px; float: left; margin-left: 20px;"><button class="btn btn-submit">Submit</button></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="grid-row">
+                        <div class="grid-col grid-col-12">
                             <form class="form-newsletter">
                                 <input class="input-text" type="text" name="email-newsletter" id="email-newsletter" placeholder="Your Email Address" tabindex="2" />
                                 <button class="btn">Send It</button>
@@ -444,56 +453,28 @@
                     </div>
 
                     <div class="grid-row">
-                        <div class="grid-col grid-col-8">&nbsp;</div>
-                        <div class="grid-col grid-col-4">
-                            <div class="grid-row">
-                                <div class="grid-col grid-col-12">
-                                    <div class="promo-wrap promo-feat">
-                                        <a href="#"><img src="assets/images/promo-win-trip.jpg" alt="You could win a trip to the Napa Valley Finals" /></a>
-                                    </div>
+                            <div class="grid-col grid-col-8">
+                                <div class="hdg-block hdg-block-secondary">
+                                    <h2 class="hdg hdg-2 hdg-caps">Relish Community</h2>
+                                    <a href="#">Browse All Community Offerings<i class="icon icon-more-arrow-dk"></i></a>
                                 </div>
-                            </div>
-                            <div class="panel panel-newsletter">
-                                <div class="panel-hdg"><i class="icon icon-email"></i> Sign up for the Relish Newsletter</div>
-                                <form class="form-newsletter">
-                                    <input class="input-text" type="text" name="email-newsletter" id="email-newsletter2" placeholder="Your Email Address" tabindex="2" />
-                                    <button class="btn">Send It</button>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
 
-                    <div class="grid-row">
-                        <div class="grid-col grid-col-12">
-                            <div class="promo-wrap promo-banner">
-                                <img src="assets/images/promo-banner.jpg" alt="Experience KitchenAid Quality on the Countertop" />
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="grid-row">
-                        <div class="grid-col grid-col-8">
-                            <div class="hdg-block hdg-block-secondary">
-                                <h2 class="hdg hdg-2 hdg-caps">Relish Community</h2>
-                                <a href="#">Browse All Community Offerings<i class="icon icon-more-arrow-dk"></i></a>
-                            </div>
-
-                            <div class="grid-col grid-col-7">
-                                <div class="blocks blocks-1up">
-                                    <div>
-                                        <div class="block-bd">
-                                            <h3 class="hdg hdg-3"><i class="icon icon-community"></i>Welcome to the Community</h3>
-                                            <p>Whether it’s your grandmother’s cookie recipe or the mac and cheese you baked for the office potluck, when you prepare food and share it with others, you’re saying something special. So welcome to Relish. Join the conversation.</p>
-                                        </div>
-                                        <div class="block-img">
-                                            <div class="promo-wrap">
-                                                <img src="assets/images/promo-supper-club.png" alt="Supper Club - Join the discussion around the table." />
-                                                <img src="assets/images/promo-bake-forward.png" alt="Bake it forward. - Random acts of everyday deliciousness." />
+                                <div class="grid-col grid-col-7">
+                                    <div class="blocks blocks-1up">
+                                        <div>
+                                            <div class="block-bd">
+                                                <h3 class="hdg hdg-3"><i class="icon icon-community"></i>Welcome to the Community</h3>
+                                                <p>Whether it’s your grandmother’s cookie recipe or the mac and cheese you baked for the office potluck, when you prepare food and share it with others, you’re saying something special. So welcome to Relish. Join the conversation.</p>
+                                            </div>
+                                            <div class="block-img">
+                                                <div class="promo-wrap">
+                                                    <img src="assets/images/promo-supper-club.png" alt="Supper Club - Join the discussion around the table." />
+                                                    <img src="assets/images/promo-bake-forward.png" alt="Bake it forward. - Random acts of everyday deliciousness." />
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
                             <div class="grid-col grid-col-5">
                                 <div class="column-sep">
                                     <h3 class="hdg hdg-3"><i class="icon icon-poll"></i>Community Poll</h3>
@@ -530,7 +511,32 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="grid-col grid-col-4">
+                            <div class="grid-row">
+                                <div class="grid-col grid-col-12">
+                                    <div class="promo-wrap promo-feat">
+                                        <a href="#"><img src="assets/images/promo-win-trip.jpg" alt="You could win a trip to the Napa Valley Finals" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="panel panel-newsletter">
+                                <div class="panel-hdg"><i class="icon icon-email"></i> Sign up for the Relish Newsletter</div>
+                                <form class="form-newsletter">
+                                    <input class="input-text" type="text" name="email-newsletter" id="email-newsletter2" placeholder="Your Email Address" tabindex="2" />
+                                    <button class="btn">Send It</button>
+                                </form>
+                            </div>
+                        </div>
                     </div>
+
+                    <div class="grid-row">
+                        <div class="grid-col grid-col-12">
+                            <div class="promo-wrap promo-banner">
+                                <img src="assets/images/promo-banner.jpg" alt="Experience KitchenAid Quality on the Countertop" />
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div><!--/.content-->
