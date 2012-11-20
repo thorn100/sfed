@@ -19,7 +19,7 @@
 		    	<div class="media-bd">
 		    		<p class="hdg-4">Current Issue</p>
 		    		<em class="txt-ital">Bringing the Camel Back</em>
-		    		<p class="san-serif-alt">Oct. 17th &dash; 23rd</p>
+		    		<p class="txt-san-serif-alt">Oct. 17th &dash; 23rd</p>
 		    	</div>
 		    </div>
 

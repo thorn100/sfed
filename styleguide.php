@@ -188,7 +188,7 @@
                                             </span>
                                         </h3>
                                         <p class="block-copy sep-bottom">It's not a Halloween party until somebody screams&#8230; whether with terror or delight is up to the host. Here's a few scarifying soiree suggestions for the adults plus&#8230;<a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a></p>
-                                        <span class="article-cat serif">People<i class="icon icon-cat-arrow"></i></span>
+                                        <span class="article-cat txt-serif">People<i class="icon icon-cat-arrow"></i></span>
                                         <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                     </div>
                                 </div>
@@ -213,7 +213,7 @@
                                             </span>
                                         </h3>
                                         <p class="block-copy sep-bottom">Teresa suggests hanging your lantern on the porch, in trees or using as the centerpiece for a&#8230;</p>
-                                        <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                        <span class="article-cat txt-serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                         <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                     </div>
                                 </li>
@@ -231,7 +231,7 @@
                                             </span>
                                         </h3>
                                         <p class="block-copy sep-bottom">Teresa suggests hanging your lantern on the porch, in trees or using as the centerpiece for a&#8230;</p>
-                                        <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                        <span class="article-cat txt-serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                         <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                     </div>
                                 </li>
@@ -249,7 +249,7 @@
                                             </span>
                                         </h3>
                                         <p class="block-copy sep-bottom">Teresa suggests hanging your lantern on the porch, in trees or using as the centerpiece for a&#8230;</p>
-                                        <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                        <span class="article-cat txt-serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                         <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                     </div>
                                 </li>
@@ -267,7 +267,7 @@
                                             </span>
                                         </h3>
                                         <p class="block-copy sep-bottom">Teresa suggests hanging your lantern on the porch, in trees or using as the centerpiece for a&#8230;</p>
-                                        <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                        <span class="article-cat txt-serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                         <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                     </div>
                                 </li>
@@ -347,7 +347,7 @@
                                 <div class="media-bd">
                                     <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-primary">Shop for Health</h3>
                                     <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
-                                    <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                    <span class="article-cat txt-serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                     <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                 </div>
                             </div>
@@ -362,7 +362,7 @@
                                 <div class="media-bd">
                                     <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-primary">Shop for Health</h3>
                                     <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
-                                    <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                    <span class="article-cat txt-serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                     <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                 </div>
                             </div>
@@ -382,7 +382,7 @@
                                         <div class="media-bd">
                                             <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-tertiary">Shop for Health</h3>
                                             <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
-                                            <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                            <span class="article-cat txt-serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                             <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                         </div>
                                     </div>
@@ -397,7 +397,7 @@
                                         <div class="media-bd">
                                             <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-tertiary">Shop for Health</h3>
                                             <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
-                                            <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                            <span class="article-cat txt-serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                             <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                         </div>
                                     </div>
@@ -412,7 +412,7 @@
                                         <div class="media-bd">
                                             <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-secondary">Shop for Health</h3>
                                             <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
-                                            <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                            <span class="article-cat txt-serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                             <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                         </div>
                                     </div>
@@ -445,7 +445,7 @@
                                 <a class="btn btn-icon" href="#"><i class="icon btn-icon-recipe"></i>My Recipie Box</a>
 
                                 <div class="help">
-                                    <p class="san-serif-alt tips">Ideas: easy lasagna, baked fries, easy desserts, ribs</p>
+                                    <p class="san-txt-serif-alt tips">Ideas: easy lasagna, baked fries, easy desserts, ribs</p>
                                     <p class="login">Please <a href="#">login</a> to use these services.</p>
                                 </div>
                             </div>

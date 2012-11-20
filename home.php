@@ -69,7 +69,7 @@
                                             </span>
                                         </h3>
                                         <p class="block-copy sep-bottom">It's not a Halloween party until somebody screams&#8230; whether with terror or delight is up to the host. Here's a few scarifying soiree suggestions for the adults plus&#8230;<a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a></p>
-                                        <span class="article-cat serif">People<i class="icon icon-cat-arrow"></i></span>
+                                        <span class="article-cat txt-serif">People<i class="icon icon-cat-arrow"></i></span>
                                         <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                     </div>
                                 </div><!--/.slide-->
@@ -87,7 +87,7 @@
                                             </span>
                                         </h3>
                                         <p class="block-copy sep-bottom">Nsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam&#8230;<a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a></p>
-                                        <span class="article-cat serif">Heroes<i class="icon icon-cat-arrow"></i></span>
+                                        <span class="article-cat txt-serif">Heroes<i class="icon icon-cat-arrow"></i></span>
                                         <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                     </div>
                                 </div><!--/.slide-->
@@ -105,7 +105,7 @@
                                             </span>
                                         </h3>
                                         <p class="block-copy sep-bottom">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore&#8230;<a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a></p>
-                                        <span class="article-cat serif">Health<i class="icon icon-cat-arrow"></i></span>
+                                        <span class="article-cat txt-serif">Health<i class="icon icon-cat-arrow"></i></span>
                                         <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                     </div>
                                 </div><!--/.slide-->
@@ -123,7 +123,7 @@
                                             </span>
                                         </h3>
                                         <p class="block-copy sep-bottom">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui&#8230;<a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a></p>
-                                        <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                        <span class="article-cat txt-serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                         <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                     </div>
                                 </div><!--/.slide-->
@@ -178,7 +178,7 @@
                             <a class="btn btn-icon" href="#"><i class="icon btn-icon-recipe"></i>My Recipie Box</a>
 
                             <div class="help">
-                                <p class="san-serif-alt tips">Ideas: easy lasagna, baked fries, easy desserts, ribs</p>
+                                <p class="san-txt-serif-alt tips">Ideas: easy lasagna, baked fries, easy desserts, ribs</p>
                                 <p class="login">Please <a href="#">login</a> to use these services.</p>
                             </div>
                         </div>
@@ -206,7 +206,7 @@
                                         </span>
                                     </h3>
                                     <p class="block-copy sep-bottom">Teresa suggests hanging your lantern on the porch, in trees or using as the centerpiece for a&#8230;</p>
-                                    <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                    <span class="article-cat txt-serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                     <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                 </div>
                             </li>
@@ -224,7 +224,7 @@
                                         </span>
                                     </h3>
                                     <p class="block-copy sep-bottom">Butternut Squash Filled with Spinach and Ricotta At last – butternut that’s worthy of a company dinner but&#8230;</p>
-                                    <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                    <span class="article-cat txt-serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                     <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                 </div>
                             </li>
@@ -242,7 +242,7 @@
                                         </span>
                                     </h3>
                                     <p class="block-copy sep-bottom">When we need easy-to-make recipes with a sense of style and flavor, Italian fisherman brought&#8230;</p>
-                                    <span class="article-cat serif">Other Stories<i class="icon icon-cat-arrow"></i></span>
+                                    <span class="article-cat txt-serif">Other Stories<i class="icon icon-cat-arrow"></i></span>
                                     <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                 </div>
                             </li>
@@ -260,7 +260,7 @@
                                         </span>
                                     </h3>
                                     <p class="block-copy sep-bottom">Trays of all sizes and shapes come in handy in the kitchen. I create my own with recycled wooden picture&#8230;</p>
-                                    <span class="article-cat serif">Other Stories<i class="icon icon-cat-arrow"></i></span>
+                                    <span class="article-cat txt-serif">Other Stories<i class="icon icon-cat-arrow"></i></span>
                                     <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                                 </div>
                             </li>
@@ -274,7 +274,7 @@
                             <div class="media-bd">
                                 <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-primary">Shop for Health</h3>
                                 <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
-                                <span class="article-cat serif">Health<i class="icon icon-cat-arrow"></i></span>
+                                <span class="article-cat txt-serif">Health<i class="icon icon-cat-arrow"></i></span>
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
@@ -287,7 +287,7 @@
                             <div class="media-bd">
                                 <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-primary">Shop for Health</h3>
                                 <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
-                                <span class="article-cat serif">Health<i class="icon icon-cat-arrow"></i></span>
+                                <span class="article-cat txt-serif">Health<i class="icon icon-cat-arrow"></i></span>
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
@@ -300,7 +300,7 @@
                             <div class="media-bd">
                                 <h3 class="hdg hdg-3-alt hdg-recent hdg-sep-primary">Shop for Health</h3>
                                 <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt disseminate optimal initiatives through worldwide platforms. Uniquely visualize&#8230;</p>
-                                <span class="article-cat serif">Health<i class="icon icon-cat-arrow"></i></span>
+                                <span class="article-cat txt-serif">Health<i class="icon icon-cat-arrow"></i></span>
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
@@ -491,7 +491,7 @@
                             <div class="media-bd">
                                 <h3 class="hdg hdg-3-alt3 hdg-recent hdg-sep-secondary">Get-Togethers</h3>
                                 <p class="block-copy sep-bottom">American Profile focuses on what makes the hometowns of America great: a sense &#8230;</p>
-                                <span class="article-cat serif">$39.99</span>
+                                <span class="article-cat txt-serif">$39.99</span>
                                 <a class="link-more" href="#">More Details<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
@@ -504,7 +504,7 @@
                             <div class="media-bd">
                                 <h3 class="hdg hdg-3-alt3 hdg-recent hdg-sep-secondary">Shop for Health</h3>
                                 <p class="block-copy sep-bottom">Enjoy Simply Stunning Holiday Desserts, Philly Tast of Heaven and Best Holiday Cookies&#8230;</p>
-                                <span class="article-cat serif">Free</span>
+                                <span class="article-cat txt-serif">Free</span>
                                 <a class="link-more" href="#">More Details<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
@@ -525,7 +525,7 @@
                             <div class="media-bd">
                                 <h3 class="hdg hdg-3-alt3 hdg-recent hdg-sep-tertiary">Shop for Health</h3>
                                 <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
-                                <span class="article-cat serif">Recipies<i class="icon icon-cat-arrow"></i></span>
+                                <span class="article-cat txt-serif">Recipies<i class="icon icon-cat-arrow"></i></span>
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
@@ -538,7 +538,7 @@
                             <div class="media-bd">
                                 <h3 class="hdg hdg-3-alt3 hdg-recent hdg-sep-tertiary">Bone Health</h3>
                                 <p class="block-copy sep-bottom">With its sprightly, fresh taste, this salsa is perfect with chips or salsa is perfect with chips or&#8230;</p>
-                                <span class="article-cat serif">Health<i class="icon icon-cat-arrow"></i></span>
+                                <span class="article-cat txt-serif">Health<i class="icon icon-cat-arrow"></i></span>
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
@@ -557,7 +557,7 @@
                             <div class="media-bd">
                                 <h3 class="hdg hdg-3-alt3 hdg-recent hdg-sep-tertiary">Jamie Oliver</h3>
                                 <p class="block-copy sep-bottom">When Jamie Oliver encourages kids to get in the kitchen and start connecting the dots&#8230;</p>
-                                <span class="article-cat serif">Heroes<i class="icon icon-cat-arrow"></i></span>
+                                <span class="article-cat txt-serif">Heroes<i class="icon icon-cat-arrow"></i></span>
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
@@ -570,7 +570,7 @@
                             <div class="media-bd">
                                 <h3 class="hdg hdg-3-alt3 hdg-recent hdg-sep-tertiary">Shop for Health</h3>
                                 <p class="block-copy sep-bottom">With its sprightly, fresh taste, this salsa is perfect with chips or salsa is perfect with chips or&#8230;</p>
-                                <span class="article-cat serif">Heroes<i class="icon icon-cat-arrow"></i></span>
+                                <span class="article-cat txt-serif">Heroes<i class="icon icon-cat-arrow"></i></span>
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
@@ -589,7 +589,7 @@
                             <div class="media-bd">
                                 <h3 class="hdg hdg-3-alt3 hdg-recent hdg-sep-tertiary">Shop for Health</h3>
                                 <p class="block-copy sep-bottom">Pushing her grocery cart while scanning the aisles, Karen McCarthy of Dorset, Vt&#8230;</p>
-                                <span class="article-cat serif">Partners<i class="icon icon-cat-arrow"></i></span>
+                                <span class="article-cat txt-serif">Partners<i class="icon icon-cat-arrow"></i></span>
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
@@ -602,7 +602,7 @@
                             <div class="media-bd">
                                 <h3 class="hdg hdg-3-alt3 hdg-recent hdg-sep-tertiary">Bone Health</h3>
                                 <p class="block-copy sep-bottom">With its sprightly, fresh taste, this salsa is perfect with chips or salsa is perfect with chips or&#8230;</p>
-                                <span class="article-cat serif">Partners<i class="icon icon-cat-arrow"></i></span>
+                                <span class="article-cat txt-serif">Partners<i class="icon icon-cat-arrow"></i></span>
                                 <a class="link-more" href="#">Read More<i class="icon icon-more-arrow"></i></a>
                             </div>
                         </div>
