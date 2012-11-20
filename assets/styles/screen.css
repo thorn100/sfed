@@ -364,14 +364,6 @@ input[type=text] {
 
 .list-wrap .sep-bottom { padding-bottom: 1px; }
 
-.entry-count {
-    font-size: 8px;
-    opacity: .5;
-    float: right;
-    text-transform: uppercase;
-    padding-top: 4px;
-}
-
 /* ---------------------------------------------------------------------
  Media Element Styles
 ------------------------------------------------------------------------ */
@@ -1014,6 +1006,14 @@ input[type=text] + .btn {
 }
 
 .cat-list a { display: block; }
+
+.entry-count {
+    font-size: 8px;
+    opacity: .5;
+    float: right;
+    text-transform: uppercase;
+    padding-top: 4px;
+}
 
 /* ---------------------------------------------------------------------
  Advertisement Styles
