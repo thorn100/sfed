@@ -277,7 +277,7 @@ a:focus { text-decoration: underline; }
     background: url(../images/bg-content.png) repeat-y #ffffff;
 }
 
-.wrapper-inner { padding: 15px 30px 0; }
+.wrapper-inner { padding: 15px 30px 30px; }
 
 .sep-bottom {
     border-bottom: 1px solid rgba(104,104,104,.2);
