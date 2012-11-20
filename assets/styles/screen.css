@@ -142,18 +142,6 @@ textarea {
 .grid-col-11 { width: 91.444%; }
 .grid-col-12 { width: 100%; }
 
-/* Push */
-.grid-push-1  { left: 5.888%; }
-.grid-push-2  { left: 14.444%; }
-.grid-push-3  { left: 23%; }
-.grid-push-4  { left: 31.555%; }
-.grid-push-5  { left: 40.111%; }
-.grid-push-6  { left: 48.666%; }
-.grid-push-7  { left: 57.222%; }
-.grid-push-8  { left: 65.777%; }
-.grid-push-9  { left: 74.333%; }
-.grid-push-10 { left: 82.888%; }
-
 /* ---------------------------------------------------------------------
  Blocks
 ------------------------------------------------------------------------ */
@@ -350,9 +338,9 @@ input[type=text] {
     font-weight: bold;
 }
 
-input::-webkit-input-placeholder,
+.input-text::-webkit-input-placeholder,
 .input-text:-moz-placeholder,
-.input-text:-ms-input-placeholder { color: red; }
+.input-text:-ms-input-placeholder { color: #858782; }
 
 /* ---------------------------------------------------------------------
  List Styles
